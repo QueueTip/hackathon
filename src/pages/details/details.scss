@@ -51,15 +51,28 @@ page-details {
   .inspectionGrid {
     padding: 0 10px;
     font-size: 1.1em;
+    margin-bottom: 10px;
   }
 
   .inspectionHeaderRow ion-col {
     border: 1px solid #666666;
   }
 
+  .inspectionRow ion-col {
+    border: 1px dashed #DDDDDD;
+  }
+
   .dateCol, .inspectionScoreCol, .typeCol {
     min-width: 100px;
-    max-width: 100px;
     text-align: center;
+  }
+
+  .violationsCol {
+    width: 100%;
+  }
+
+
+  .violationsCol ul {
+    margin: 0;
   }
 }

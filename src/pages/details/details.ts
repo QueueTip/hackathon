@@ -34,6 +34,7 @@ export class DetailsPage {
         if (score > 90) return "scoreGood";
         if (score > 85) return "scoreOK";
         if (score > 70) return "scoreMeh";
+        if (score === -1) return "scoreNA";
         return "scoreBad";
     }
 }

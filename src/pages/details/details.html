@@ -10,15 +10,15 @@
     <ion-grid>
         <ion-row class="scoreRow">
             <ion-col col-4 class="scoreCol">
-                <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore}}</div>
+                <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore === -1 ? "N/A" : company.minScore}}</div>
                 <div class="scoreLabel">Min</div>
             </ion-col>
             <ion-col col-4 class="scoreCol">
-                <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore}}</div>
+                <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore === -1 ? "N/A" : company.avgScore}}</div>
                 <div class="scoreLabel">Avg</div>
             </ion-col>
             <ion-col col-4 class="scoreCol">
-                <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore}}</div>
+                <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore === -1 ? "N/A" : company.maxScore}}</div>
                 <div class="scoreLabel">Max</div>
             </ion-col>
         </ion-row>
@@ -33,17 +33,19 @@
                         <ion-label class="inspectionLabel">Inspections</ion-label>
                         <ion-grid class="inspectionGrid">
                             <ion-row class="inspectionHeaderRow">
-                                <ion-col col-2 class="dateCol">Date</ion-col>
-                                <ion-col col-2 class="inspectionScoreCol">Score</ion-col>
-                                <ion-col col-2 class="typeCol">Type</ion-col>
-                                <ion-col col-6 class="violationsCol">Violations</ion-col>
+                                <ion-col col-1 class="dateCol">Date</ion-col>
+                                <ion-col col-1 class="inspectionScoreCol">Score</ion-col>
+                                <ion-col col-1 class="typeCol">Type</ion-col>
+                                <ion-col col-9 class="violationsCol">Violations</ion-col>
                             </ion-row>
-                            <ion-row *ngFor="let inspection of location.inspections">
-                                <ion-col col-2 class="dateCol">{{inspection.date}}</ion-col>
-                                <ion-col col-2 class="inspectionScoreCol {{getScoreClass(inspection.score)}}">{{inspection.score}}</ion-col>
-                                <ion-col col-2 class="typeCol">{{inspection.type}}</ion-col>
-                                <ion-col col-6 class="violationsCol">
-                                    <div class="violation" *ngFor="let violation of inspection.violations">{{violation.description}}</div>
+                            <ion-row *ngFor="let inspection of location.inspections" class="inspectionRow">
+                                <ion-col col-1 class="dateCol">{{inspection.date}}</ion-col>
+                                <ion-col col-1 class="inspectionScoreCol {{getScoreClass(inspection.score)}}">{{inspection.score}}</ion-col>
+                                <ion-col col-1 class="typeCol">{{inspection.type}}</ion-col>
+                                <ion-col col-9 class="violationsCol">
+                                    <ul *ngIf="inspection.violations.length > 0">
+                                        <li class="violation" *ngFor="let violation of inspection.violations">{{violation.description}}</li>
+                                    </ul>
                                 </ion-col>
                             </ion-row>
                         </ion-grid>

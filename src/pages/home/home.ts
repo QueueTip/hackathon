@@ -8,6 +8,9 @@ import {Company} from "../../models/company.interface";
 import * as _ from "lodash";
 import {DetailsPage} from '../details/details';
 
+const parCombinedName = "Par (Combined)";
+const nonParCombinedName = "Non-Par (Combined)";
+
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
@@ -22,7 +25,6 @@ export class HomePage {
 
     parCustomerList: string[];
 
-    //Settings
     showCustomers: boolean = true;
     showNonCustomers: boolean = true;
 
@@ -42,6 +44,7 @@ export class HomePage {
         await this.populateInspectionsWithViolations();
         await this.populateLocationsWithInspections();
         await this.buildCompanySummary();
+        await this.filterCompanies();
     }
 
     private async populateInspectionsWithViolations() : Promise<void> {
@@ -57,7 +60,10 @@ export class HomePage {
     }
 
     private async buildCompanySummary() : Promise<void> {
-        const isParCustomer = (name) => !!this.parCustomerList.find(customer => name === customer);
+        const isParCustomer = (name) => {
+            if (name === parCombinedName) return true;
+            return !!this.parCustomerList.find(customer => name === customer);
+        };
 
         // Take all relevant locations and build a company with given name
         const buildCompany = (locArray, name) => {
@@ -66,14 +72,14 @@ export class HomePage {
             return {
                 name: name,
                 locations: locArray,
-                minScore: locInspections.length > 0 ? _.minBy(locInspections, i => i.score).score : 0,
-                maxScore: locInspections.length > 0 ? _.maxBy(locInspections, i => i.score).score : 0,
-                avgScore: locInspections.length > 0 ? Math.floor(_.meanBy(locInspections, i => i.score) * 10) / 10 : 0,
-                parCustomer: !!this.parCustomerList.find(customer => name === customer)
+                minScore: locInspections.length > 0 ? _.minBy(locInspections, i => i.score).score : -1,
+                maxScore: locInspections.length > 0 ? _.maxBy(locInspections, i => i.score).score : -1,
+                avgScore: locInspections.length > 0 ? Math.floor(_.meanBy(locInspections, i => i.score) * 10) / 10 : -1,
+                parCustomer: isParCustomer(name)
             } as Company;
         };
-        let parCompany = buildCompany(this.locations.filter(loc => isParCustomer(loc.name)), "Par Customers");
-        let nonCustomerCompany = buildCompany(this.locations.filter(loc => !isParCustomer(loc.name)), "Non-Customers");
+        let parCompany = buildCompany(this.locations.filter(loc => isParCustomer(loc.name)), parCombinedName);
+        let nonCustomerCompany = buildCompany(this.locations.filter(loc => !isParCustomer(loc.name)), nonParCombinedName);
 
         this.companies.push(parCompany);
         this.companies.push(nonCustomerCompany);
@@ -88,25 +94,12 @@ export class HomePage {
 
     async filterCompanies() {
         this.filteredCompanies = this.companies.filter(company => {
-            if (this.includeCustomerAggregate && company.name === "Par Customers") return true;
-            if (this.includeNonCustomerAggregate && company.name === "Non-Customers") return true;
+            if (company.name === parCombinedName) return this.includeCustomerAggregate;
+            if (company.name === nonParCombinedName) return this.includeNonCustomerAggregate;
             if (this.showCustomers && company.parCustomer) return true;
             if (this.showNonCustomers && !company.parCustomer) return true;
             return false;
         });
-    }
-
-    toggleCustomers(selected: boolean) {
-
-    }
-    toggleNonCustomers(selected: boolean) {
-
-    }
-    toggleCustomerAggregate(selected: boolean) {
-
-    }
-    toggleNonCustomerAggregate(selected: boolean) {
-
     }
 
     goToCompanyDetails(company: Company) {
@@ -122,6 +115,7 @@ export class HomePage {
         if (score > 90) return "scoreGood";
         if (score > 85) return "scoreOK";
         if (score > 70) return "scoreMeh";
+        if (score === -1) return "scoreNA";
         return "scoreBad";
     }
 }

@@ -37,7 +37,7 @@
     </ion-grid>
     <ion-grid>
         <ion-row>
-            <ion-col *ngFor="let company of companies" justify-content-start class="cardColumn">
+            <ion-col *ngFor="let company of filteredCompanies" justify-content-start class="cardColumn">
                 <ion-card class="companyCard" (click)="goToCompanyDetails(company)">
                     <ion-row justify-content-center align-items-center style="height: 100px">
                         <ion-col col-9>
@@ -52,15 +52,15 @@
 
                     <ion-row style="height: 50px">
                         <ion-col col-4 class="scoreCol">
-                            <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore}}</div>
+                            <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore === -1 ? "N/A" : company.minScore}}</div>
                             <div class="scoreLabel">Min</div>
                         </ion-col>
                         <ion-col col-4 class="scoreCol">
-                            <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore}}</div>
+                            <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore === -1 ? "N/A" : company.avgScore}}</div>
                             <div class="scoreLabel">Avg</div>
                         </ion-col>
                         <ion-col col-4 class="scoreCol">
-                            <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore}}</div>
+                            <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore === -1 ? "N/A" : company.maxScore}}</div>
                             <div class="scoreLabel">Max</div>
                         </ion-col>
                     </ion-row>
