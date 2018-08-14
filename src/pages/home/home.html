@@ -7,6 +7,34 @@
 </ion-header>
 
 <ion-content>
+    <ion-grid class="optionsGrid">
+        <ion-row>
+            <ion-col>
+                <ion-list>
+                    <ion-item>
+                        <ion-label>Par customers</ion-label>
+                        <ion-checkbox [(ngModel)]="showCustomers" (ionChange)="filterCompanies($event)"></ion-checkbox>
+                    </ion-item>
+                    <ion-item>
+                        <ion-label>Non-customers</ion-label>
+                        <ion-checkbox [(ngModel)]="showNonCustomers" (ionChange)="filterCompanies($event)"></ion-checkbox>
+                    </ion-item>
+                </ion-list>
+            </ion-col>
+            <ion-col>
+                <ion-list>
+                    <ion-item>
+                        <ion-label>Group by Par customers</ion-label>
+                        <ion-checkbox [(ngModel)]="includeCustomerAggregate" (ionChange)="filterCompanies($event)"></ion-checkbox>
+                    </ion-item>
+                    <ion-item>
+                        <ion-label>Group by Non-customers</ion-label>
+                        <ion-checkbox [(ngModel)]="includeNonCustomerAggregate" (ionChange)="filterCompanies($event)"></ion-checkbox>
+                    </ion-item>
+                </ion-list>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
     <ion-grid>
         <ion-row>
             <ion-col *ngFor="let company of companies" justify-content-start class="cardColumn">

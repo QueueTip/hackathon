@@ -17,8 +17,17 @@ export class HomePage {
     locations: Location[];
     inspections: Inspection[];
     violations: Violation[];
+    companies: Company[] = [];
+    filteredCompanies: Company[];
 
-    companies: Company[];
+    parCustomerList: string[];
+
+    //Settings
+    showCustomers: boolean = true;
+    showNonCustomers: boolean = true;
+
+    includeCustomerAggregate: boolean = false;
+    includeNonCustomerAggregate: boolean = false;
 
     constructor(public navCtrl: NavController, private http: Http) {
 
@@ -28,6 +37,7 @@ export class HomePage {
         this.locations = (await this.http.get('assets/businesses.json').toPromise()).json();
         this.inspections = (await this.http.get('assets/inspections.json').toPromise()).json();
         this.violations = (await this.http.get('assets/violations.json').toPromise()).json();
+        this.parCustomerList = (await this.http.get('assets/parcompanies.json').toPromise()).json();
 
         await this.populateInspectionsWithViolations();
         await this.populateLocationsWithInspections();
@@ -47,22 +57,56 @@ export class HomePage {
     }
 
     private async buildCompanySummary() : Promise<void> {
-        this.companies = _.chain(this.locations)
+        const isParCustomer = (name) => !!this.parCustomerList.find(customer => name === customer);
+
+        // Take all relevant locations and build a company with given name
+        const buildCompany = (locArray, name) => {
+            let inspectionArrays: Array<Inspection[]> = _.map(locArray, b => b.inspections);
+            let locInspections: Inspection[] = _.flatten(inspectionArrays);
+            return {
+                name: name,
+                locations: locArray,
+                minScore: locInspections.length > 0 ? _.minBy(locInspections, i => i.score).score : 0,
+                maxScore: locInspections.length > 0 ? _.maxBy(locInspections, i => i.score).score : 0,
+                avgScore: locInspections.length > 0 ? Math.floor(_.meanBy(locInspections, i => i.score) * 10) / 10 : 0,
+                parCustomer: !!this.parCustomerList.find(customer => name === customer)
+            } as Company;
+        };
+        let parCompany = buildCompany(this.locations.filter(loc => isParCustomer(loc.name)), "Par Customers");
+        let nonCustomerCompany = buildCompany(this.locations.filter(loc => !isParCustomer(loc.name)), "Non-Customers");
+
+        this.companies.push(parCompany);
+        this.companies.push(nonCustomerCompany);
+
+        // create all companies
+        this.companies = this.companies.concat(_.chain(this.locations)
             .groupBy(loc => loc.name)
-            .map((locArray, name) => {
-                let inspectionArrays: Array<Inspection[]> = _.map(locArray, b => b.inspections);
-                let locInspections: Inspection[] = _.flatten(inspectionArrays);
-                return {
-                    name: name,
-                    locations: locArray,
-                    minScore: locInspections.length > 0 ? _.minBy(locInspections, i => i.score).score : 0,
-                    maxScore: locInspections.length > 0 ? _.maxBy(locInspections, i => i.score).score : 0,
-                    avgScore: locInspections.length > 0 ? Math.floor(_.meanBy(locInspections, i => i.score) * 10) / 10 : 0,
-                    parCustomer: true
-                } as Company;
-            })
-            .value();
+            .map(buildCompany)
+            .value());
         console.log(this.companies);
+    }
+
+    async filterCompanies() {
+        this.filteredCompanies = this.companies.filter(company => {
+            if (this.includeCustomerAggregate && company.name === "Par Customers") return true;
+            if (this.includeNonCustomerAggregate && company.name === "Non-Customers") return true;
+            if (this.showCustomers && company.parCustomer) return true;
+            if (this.showNonCustomers && !company.parCustomer) return true;
+            return false;
+        });
+    }
+
+    toggleCustomers(selected: boolean) {
+
+    }
+    toggleNonCustomers(selected: boolean) {
+
+    }
+    toggleCustomerAggregate(selected: boolean) {
+
+    }
+    toggleNonCustomerAggregate(selected: boolean) {
+
     }
 
     goToCompanyDetails(company: Company) {
