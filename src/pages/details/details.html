@@ -1,0 +1,55 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+        Details - {{company.name}}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <ion-grid>
+        <ion-row class="scoreRow">
+            <ion-col col-4 class="scoreCol">
+                <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore}}</div>
+                <div class="scoreLabel">Min</div>
+            </ion-col>
+            <ion-col col-4 class="scoreCol">
+                <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore}}</div>
+                <div class="scoreLabel">Avg</div>
+            </ion-col>
+            <ion-col col-4 class="scoreCol">
+                <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore}}</div>
+                <div class="scoreLabel">Max</div>
+            </ion-col>
+        </ion-row>
+        <ion-row class="locationHeaderRow">
+            <ion-col col-12>Locations</ion-col>
+        </ion-row>
+        <ion-row *ngFor="let location of company.locations" class="locationRow">
+            <ion-col col-12>
+                <ion-card class="locationCard">
+                    <ion-label class="locationLabel">{{location.business_id}} - {{location.address}}</ion-label>
+                    <ng-container *ngIf="location.inspections && location.inspections.length > 0">
+                        <ion-label class="inspectionLabel">Inspections</ion-label>
+                        <ion-grid class="inspectionGrid">
+                            <ion-row class="inspectionHeaderRow">
+                                <ion-col col-2 class="dateCol">Date</ion-col>
+                                <ion-col col-2 class="inspectionScoreCol">Score</ion-col>
+                                <ion-col col-2 class="typeCol">Type</ion-col>
+                                <ion-col col-6 class="violationsCol">Violations</ion-col>
+                            </ion-row>
+                            <ion-row *ngFor="let inspection of location.inspections">
+                                <ion-col col-2 class="dateCol">{{inspection.date}}</ion-col>
+                                <ion-col col-2 class="inspectionScoreCol {{getScoreClass(inspection.score)}}">{{inspection.score}}</ion-col>
+                                <ion-col col-2 class="typeCol">{{inspection.type}}</ion-col>
+                                <ion-col col-6 class="violationsCol">
+                                    <div class="violation" *ngFor="let violation of inspection.violations">{{violation.description}}</div>
+                                </ion-col>
+                            </ion-row>
+                        </ion-grid>
+                    </ng-container>
+                </ion-card>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</ion-content>

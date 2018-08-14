@@ -1,0 +1,65 @@
+page-details {
+  .scoreRow {
+    font-size: 2em;
+    padding-bottom: 10px;
+    box-shadow: 0 2px 2px grey;
+  }
+
+
+  .companyLabel {
+    font-size: 1.6em;
+  }
+
+  .scoreCol {
+    text-align: center;
+  }
+
+  .scoreLabel {
+    font-size: .9em;
+  }
+
+  .score {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+
+  .locationHeaderRow {
+    font-size: 1.5em;
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+
+  .locationRow {
+    padding-left: 10px;
+  }
+
+  .locationCard {
+    padding-left: 5px;
+    margin: 4px 0;
+    box-shadow: 0 1px 2px 2px #CCCCCC;
+  }
+
+  .locationLabel {
+    font-size: 1.3em;
+  }
+
+  .inspectionLabel {
+    font-size: 1.1em;
+    padding-left: 10px;
+  }
+
+  .inspectionGrid {
+    padding: 0 10px;
+    font-size: 1.1em;
+  }
+
+  .inspectionHeaderRow ion-col {
+    border: 1px solid #666666;
+  }
+
+  .dateCol, .inspectionScoreCol, .typeCol {
+    min-width: 100px;
+    max-width: 100px;
+    text-align: center;
+  }
+}

@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import {Http} from "@angular/http";
-import {Business} from "../../models/business.interface";
+import {Location} from "../../models/location.interface";
 import {Inspection} from "../../models/inspection.interface";
 import {Violation} from "../../models/violation.interface";
 import {Company} from "../../models/company.interface";
 import * as _ from "lodash";
+import {DetailsPage} from '../details/details';
 
 @Component({
   selector: 'page-home',
@@ -13,7 +14,7 @@ import * as _ from "lodash";
 })
 export class HomePage {
 
-    businesses: Business[];
+    locations: Location[];
     inspections: Inspection[];
     violations: Violation[];
 
@@ -24,12 +25,12 @@ export class HomePage {
     }
 
     async ngOnInit() {
-        this.businesses = (await this.http.get('assets/businesses.json').toPromise()).json();
+        this.locations = (await this.http.get('assets/businesses.json').toPromise()).json();
         this.inspections = (await this.http.get('assets/inspections.json').toPromise()).json();
         this.violations = (await this.http.get('assets/violations.json').toPromise()).json();
 
         await this.populateInspectionsWithViolations();
-        await this.populateBusinessesWithInspections();
+        await this.populateLocationsWithInspections();
         await this.buildCompanySummary();
     }
 
@@ -39,24 +40,24 @@ export class HomePage {
         }
     }
 
-    private async populateBusinessesWithInspections() : Promise<void> {
-        for (let business of this.businesses) {
-            business.inspections = this.inspections.filter(i => i.business_id === business.business_id);
+    private async populateLocationsWithInspections() : Promise<void> {
+        for (let location of this.locations) {
+            location.inspections = this.inspections.filter(i => i.business_id === location.business_id);
         }
     }
 
     private async buildCompanySummary() : Promise<void> {
-        this.companies = _.chain(this.businesses)
-            .groupBy((business) => business.name)
-            .map((businessArray, name) => {
-                let inspectionArrays: Array<Inspection[]> = _.map(businessArray, b => b.inspections);
-                let businessInspections: Inspection[] = _.flatten(inspectionArrays);
+        this.companies = _.chain(this.locations)
+            .groupBy(loc => loc.name)
+            .map((locArray, name) => {
+                let inspectionArrays: Array<Inspection[]> = _.map(locArray, b => b.inspections);
+                let locInspections: Inspection[] = _.flatten(inspectionArrays);
                 return {
                     name: name,
-                    businesses: businessArray,
-                    minScore: businessInspections.length > 0 ? _.minBy(businessInspections, i => i.score).score : 0,
-                    maxScore: businessInspections.length > 0 ? _.maxBy(businessInspections, i => i.score).score : 0,
-                    avgScore: businessInspections.length > 0 ? _.meanBy(businessInspections, i => i.score).toFixed(1) : 0,
+                    locations: locArray,
+                    minScore: locInspections.length > 0 ? _.minBy(locInspections, i => i.score).score : 0,
+                    maxScore: locInspections.length > 0 ? _.maxBy(locInspections, i => i.score).score : 0,
+                    avgScore: locInspections.length > 0 ? Math.floor(_.meanBy(locInspections, i => i.score) * 10) / 10 : 0,
                     parCustomer: true
                 } as Company;
             })
@@ -64,7 +65,11 @@ export class HomePage {
         console.log(this.companies);
     }
 
-    private getScoreClass(score: number): string {
+    goToCompanyDetails(company: Company) {
+        this.navCtrl.push(DetailsPage, {company: company});
+    }
+
+    getScoreClass(score: number): string {
         /*0,70,"Poor"
         71,85,"Needs Improvement"
         86,90,"Adequate"

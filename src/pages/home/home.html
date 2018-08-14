@@ -6,7 +6,7 @@
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content>
     <ion-grid>
         <ion-row>
             <ion-col *ngFor="let company of companies" justify-content-start class="cardColumn">
@@ -15,7 +15,7 @@
                         <ion-col col-9>
                             <div class="companyLabel">{{company.name}}</div>
                         </ion-col>
-                        <ion-col col-3 >
+                        <ion-col col-3 style="height: 100px" >
                             <img *ngIf="company.parCustomer" class="parLogo" src="assets/logo.png" />
                         </ion-col>
                     </ion-row>
@@ -47,4 +47,13 @@
             </ion-col>
         </ion-row>
     </ion-grid>
+    <div style="font-size: 1.1em; padding: 10px;">
+        <div>References</div>
+        <div>
+            <div><a target="_blank" href="http://www.yelp.com/healthscores#format">Yelp Local Inspector Value-Entry Specification (LIVES)</a></div>
+            <div><a target="_blank" href="http://www.yelp.com/healthscores/feeds">Inspection feeds</a></div>
+            <div><a target="_blank" href="http://hdscores.com/" >HDScores</a></div>
+            <div><a target="_blank" href="http://hazelanalytics.com/">Hazel Analytics</a></div>
+        </div>
+    </div>
 </ion-content>

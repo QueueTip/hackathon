@@ -1,7 +1,6 @@
-import {Violation} from "./violation.interface";
 import {Inspection} from "./inspection.interface";
 
-export interface Business {
+export interface Location {
     business_id: number;
     name: string;
     address: string;

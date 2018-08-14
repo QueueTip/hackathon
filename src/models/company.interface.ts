@@ -1,8 +1,8 @@
-import {Business} from "./business.interface";
+import {Location} from "./location.interface";
 
 export interface Company {
     name: string;
-    businesses: Business[];
+    locations: Location[];
 
     parCustomer: boolean;
 
