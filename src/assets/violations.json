@@ -1,0 +1,5527 @@
+[
+  {
+    "business_id": 66,
+    "date": 20180420,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 66,
+    "date": 20170703,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 4/20/2018 ]"
+  },
+  {
+    "business_id": 66,
+    "date": 20170703,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/20/2018 ]"
+  },
+  {
+    "business_id": 66,
+    "date": 20160322,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 9/2/2016 ]"
+  },
+  {
+    "business_id": 80,
+    "date": 20171204,
+    "description": "Other low risk violation"
+  },
+  {
+    "business_id": 80,
+    "date": 20171204,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 80,
+    "date": 20160412,
+    "description": "Improper food storage  [ date violation corrected: 12/4/2017 ]"
+  },
+  {
+    "business_id": 81,
+    "date": 20171205,
+    "description": "Other low risk violation"
+  },
+  {
+    "business_id": 198,
+    "date": 20171129,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 198,
+    "date": 20171129,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 198,
+    "date": 20170130,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 11/29/2017 ]"
+  },
+  {
+    "business_id": 198,
+    "date": 20170130,
+    "description": "Improper thawing methods   [ date violation corrected: 11/29/2017 ]"
+  },
+  {
+    "business_id": 198,
+    "date": 20151029,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 1/30/2017 ]"
+  },
+  {
+    "business_id": 198,
+    "date": 20151029,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 1/30/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20171208,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager"
+  },
+  {
+    "business_id": 300,
+    "date": 20171208,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20171208,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20171208,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20171208,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/9/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Foods not protected from contamination  [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 300,
+    "date": 20160413,
+    "description": "Contaminated or adulterated food  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 631,
+    "date": 20180709,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 631,
+    "date": 20180709,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 631,
+    "date": 20180709,
+    "description": "Unclean or unsanitary food contact surfaces"
+  },
+  {
+    "business_id": 631,
+    "date": 20180314,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 3/22/2018 ]"
+  },
+  {
+    "business_id": 631,
+    "date": 20180314,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/9/2018 ]"
+  },
+  {
+    "business_id": 631,
+    "date": 20180314,
+    "description": "High risk food holding temperature   [ date violation corrected: 3/22/2018 ]"
+  },
+  {
+    "business_id": 631,
+    "date": 20180314,
+    "description": "Improper food storage  [ date violation corrected: 3/22/2018 ]"
+  },
+  {
+    "business_id": 631,
+    "date": 20160930,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/14/2018 ]"
+  },
+  {
+    "business_id": 1085,
+    "date": 20171207,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/7/2017 ]"
+  },
+  {
+    "business_id": 1085,
+    "date": 20161209,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/7/2017 ]"
+  },
+  {
+    "business_id": 1085,
+    "date": 20161209,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/7/2017 ]"
+  },
+  {
+    "business_id": 1085,
+    "date": 20161209,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 12/7/2017 ]"
+  },
+  {
+    "business_id": 1085,
+    "date": 20151104,
+    "description": "Inadequate dressing rooms or improper storage of personal items"
+  },
+  {
+    "business_id": 1103,
+    "date": 20170928,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1103,
+    "date": 20170928,
+    "description": "Low risk vermin infestation  [ date violation corrected: 10/6/2017 ]"
+  },
+  {
+    "business_id": 1103,
+    "date": 20161129,
+    "description": "Low risk vermin infestation  [ date violation corrected: 9/27/2017 ]"
+  },
+  {
+    "business_id": 1103,
+    "date": 20151224,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/29/2016 ]"
+  },
+  {
+    "business_id": 1103,
+    "date": 20151224,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 11/29/2016 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20180605,
+    "description": "No hot water or running water  [ date violation corrected: 6/8/2018 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20180605,
+    "description": "Low risk vermin infestation  [ date violation corrected: 6/8/2018 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20180605,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 1111,
+    "date": 20170302,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/5/2018 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20170302,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 6/5/2018 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20170302,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 6/5/2018 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20170302,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 6/5/2018 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20160621,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 3/2/2017 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20160621,
+    "description": "Improper or defective plumbing  [ date violation corrected: 3/2/2017 ]"
+  },
+  {
+    "business_id": 1111,
+    "date": 20160621,
+    "description": "High risk food holding temperature   [ date violation corrected: 6/21/2016 ]"
+  },
+  {
+    "business_id": 1116,
+    "date": 20180330,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 1116,
+    "date": 20180330,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1116,
+    "date": 20170929,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 10/2/2017 ]"
+  },
+  {
+    "business_id": 1116,
+    "date": 20170928,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 10/2/2017 ]"
+  },
+  {
+    "business_id": 1116,
+    "date": 20170928,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 10/2/2017 ]"
+  },
+  {
+    "business_id": 1116,
+    "date": 20160912,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 9/28/2017 ]"
+  },
+  {
+    "business_id": 1116,
+    "date": 20160912,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 9/28/2017 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20171214,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 1122,
+    "date": 20171214,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1122,
+    "date": 20171214,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 1122,
+    "date": 20161014,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20161014,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20161014,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20161014,
+    "description": "Inadequate sewage or wastewater disposal  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20160329,
+    "description": "Improper or defective plumbing  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20160329,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 1122,
+    "date": 20160329,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 1125,
+    "date": 20170816,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 1125,
+    "date": 20170816,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1125,
+    "date": 20160527,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/16/2017 ]"
+  },
+  {
+    "business_id": 1125,
+    "date": 20160527,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/16/2017 ]"
+  },
+  {
+    "business_id": 1127,
+    "date": 20171004,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 1127,
+    "date": 20171004,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1127,
+    "date": 20160615,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 6/15/2016 ]"
+  },
+  {
+    "business_id": 1127,
+    "date": 20160615,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 10/4/2017 ]"
+  },
+  {
+    "business_id": 1127,
+    "date": 20160615,
+    "description": "Improper food labeling or menu misrepresentation  [ date violation corrected: 6/15/2016 ]"
+  },
+  {
+    "business_id": 1193,
+    "date": 20180206,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 1193,
+    "date": 20180206,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1193,
+    "date": 20160128,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 2/6/2018 ]"
+  },
+  {
+    "business_id": 1193,
+    "date": 20160128,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 2/6/2018 ]"
+  },
+  {
+    "business_id": 1193,
+    "date": 20160128,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 2/6/2018 ]"
+  },
+  {
+    "business_id": 1193,
+    "date": 20160128,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/6/2018 ]"
+  },
+  {
+    "business_id": 1269,
+    "date": 20171017,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1359,
+    "date": 20180522,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 1368,
+    "date": 20180618,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 1368,
+    "date": 20170227,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 6/18/2018 ]"
+  },
+  {
+    "business_id": 1368,
+    "date": 20160425,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 2/27/2017 ]"
+  },
+  {
+    "business_id": 1368,
+    "date": 20160425,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 2/27/2017 ]"
+  },
+  {
+    "business_id": 1444,
+    "date": 20160408,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 1486,
+    "date": 20170913,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/18/2018 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20180125,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 6/12/2018 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20180125,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 6/12/2018 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20180125,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/25/2018 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20161221,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/25/2018 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20161221,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 1/25/2018 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20151016,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12/20/2016 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20151016,
+    "description": "High risk food holding temperature   [ date violation corrected: 12/20/2016 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20151016,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/20/2016 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20151016,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 12/20/2016 ]"
+  },
+  {
+    "business_id": 1487,
+    "date": 20151016,
+    "description": "Low risk vermin infestation  [ date violation corrected: 12/20/2016 ]"
+  },
+  {
+    "business_id": 1493,
+    "date": 20160331,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 9/22/2016 ]"
+  },
+  {
+    "business_id": 1493,
+    "date": 20160331,
+    "description": "Inadequate or unsanitary refuse containers or area or no garbage service  [ date violation corrected: 9/22/2016 ]"
+  },
+  {
+    "business_id": 1493,
+    "date": 20160331,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 9/22/2016 ]"
+  },
+  {
+    "business_id": 1493,
+    "date": 20160331,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 9/22/2016 ]"
+  },
+  {
+    "business_id": 1505,
+    "date": 20171017,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 1505,
+    "date": 20151005,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 8/22/2016 ]"
+  },
+  {
+    "business_id": 1529,
+    "date": 20180109,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1529,
+    "date": 20170518,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/9/2018 ]"
+  },
+  {
+    "business_id": 1614,
+    "date": 20171107,
+    "description": "Inadequate dressing rooms or improper storage of personal items"
+  },
+  {
+    "business_id": 1614,
+    "date": 20171107,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 11/7/2017 ]"
+  },
+  {
+    "business_id": 1614,
+    "date": 20171107,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 1615,
+    "date": 20180524,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 1615,
+    "date": 20170710,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 5/24/2018 ]"
+  },
+  {
+    "business_id": 1615,
+    "date": 20170710,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/24/2018 ]"
+  },
+  {
+    "business_id": 1615,
+    "date": 20160504,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/10/2017 ]"
+  },
+  {
+    "business_id": 1652,
+    "date": 20180615,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 6/18/2018 ]"
+  },
+  {
+    "business_id": 1652,
+    "date": 20180615,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/18/2018 ]"
+  },
+  {
+    "business_id": 1652,
+    "date": 20180615,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 1652,
+    "date": 20180615,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 6/18/2018 ]"
+  },
+  {
+    "business_id": 1652,
+    "date": 20180615,
+    "description": "High risk vermin infestation  [ date violation corrected: 6/18/2018 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20180117,
+    "description": "Inadequate sewage or wastewater disposal  [ date violation corrected: 1/31/2018 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20180117,
+    "description": "Low risk vermin infestation  [ date violation corrected: 7/18/2018 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20170719,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 7/19/2017 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20170719,
+    "description": "Improper or defective plumbing  [ date violation corrected: 1/17/2018 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20170719,
+    "description": "Low risk vermin infestation  [ date violation corrected: 1/17/2018 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20170719,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 1/17/2018 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20160705,
+    "description": "Improper or defective plumbing  [ date violation corrected: 8/11/2016 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20160705,
+    "description": "No hot water or running water  [ date violation corrected: 7/6/2016 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20160705,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 8/11/2016 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20151120,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 7/5/2016 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20151120,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 11/21/2015 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20151120,
+    "description": "Inadequate sewage or wastewater disposal  [ date violation corrected: 11/21/2015 ]"
+  },
+  {
+    "business_id": 1768,
+    "date": 20151120,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 7/5/2016 ]"
+  },
+  {
+    "business_id": 1866,
+    "date": 20180112,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 1866,
+    "date": 20180112,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 1866,
+    "date": 20170110,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 1/12/2018 ]"
+  },
+  {
+    "business_id": 1866,
+    "date": 20170110,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 1/12/2017 ]"
+  },
+  {
+    "business_id": 1866,
+    "date": 20151120,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 1/10/2017 ]"
+  },
+  {
+    "business_id": 1866,
+    "date": 20151120,
+    "description": "Foods not protected from contamination  [ date violation corrected: 1/10/2017 ]"
+  },
+  {
+    "business_id": 1866,
+    "date": 20151120,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/10/2017 ]"
+  },
+  {
+    "business_id": 1927,
+    "date": 20171114,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 11/14/2017 ]"
+  },
+  {
+    "business_id": 1939,
+    "date": 20180503,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 1939,
+    "date": 20170912,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 5/3/2018 ]"
+  },
+  {
+    "business_id": 1939,
+    "date": 20161214,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 1939,
+    "date": 20151006,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 12/14/2016 ]"
+  },
+  {
+    "business_id": 2072,
+    "date": 20161003,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 12/18/2017 ]"
+  },
+  {
+    "business_id": 2072,
+    "date": 20161003,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 12/18/2017 ]"
+  },
+  {
+    "business_id": 2072,
+    "date": 20161003,
+    "description": "Improper cooking time or temperatures  [ date violation corrected: 10/3/2016 ]"
+  },
+  {
+    "business_id": 2072,
+    "date": 20161003,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/18/2017 ]"
+  },
+  {
+    "business_id": 2072,
+    "date": 20160325,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 10/3/2016 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20171214,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 2077,
+    "date": 20171214,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20161018,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20161018,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20161018,
+    "description": "High risk vermin infestation  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20161018,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20161018,
+    "description": "Improper storage use or identification of toxic substances  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20161018,
+    "description": "Improper food storage  [ date violation corrected: 12/14/2017 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20160120,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 10/18/2016 ]"
+  },
+  {
+    "business_id": 2077,
+    "date": 20160120,
+    "description": "Non service animal  [ date violation corrected: 10/18/2016 ]"
+  },
+  {
+    "business_id": 2136,
+    "date": 20171030,
+    "description": "Improper storage use or identification of toxic substances"
+  },
+  {
+    "business_id": 2218,
+    "date": 20170503,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 2218,
+    "date": 20170503,
+    "description": "High risk vermin infestation  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 2244,
+    "date": 20171010,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 2244,
+    "date": 20160609,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 6/9/2016 ]"
+  },
+  {
+    "business_id": 2245,
+    "date": 20170922,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 2245,
+    "date": 20160419,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 9/22/2017 ]"
+  },
+  {
+    "business_id": 2245,
+    "date": 20160419,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 4/19/2016 ]"
+  },
+  {
+    "business_id": 2245,
+    "date": 20160419,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 4/19/2016 ]"
+  },
+  {
+    "business_id": 2299,
+    "date": 20180808,
+    "description": "Other low risk violation"
+  },
+  {
+    "business_id": 2299,
+    "date": 20160719,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 6/9/2017 ]"
+  },
+  {
+    "business_id": 2472,
+    "date": 20180524,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 2495,
+    "date": 20170601,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 12/11/2017 ]"
+  },
+  {
+    "business_id": 2535,
+    "date": 20180731,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 2535,
+    "date": 20180731,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 2535,
+    "date": 20180731,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 2535,
+    "date": 20180731,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 2535,
+    "date": 20170505,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 7/31/2018 ]"
+  },
+  {
+    "business_id": 2535,
+    "date": 20160812,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 9/6/2016 ]"
+  },
+  {
+    "business_id": 2578,
+    "date": 20160406,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 11/28/2016 ]"
+  },
+  {
+    "business_id": 2578,
+    "date": 20160406,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 11/28/2016 ]"
+  },
+  {
+    "business_id": 2592,
+    "date": 20180412,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 2592,
+    "date": 20170309,
+    "description": "High risk food holding temperature   [ date violation corrected: 4/12/2018 ]"
+  },
+  {
+    "business_id": 2592,
+    "date": 20170309,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/12/2018 ]"
+  },
+  {
+    "business_id": 2592,
+    "date": 20170309,
+    "description": "Foods not protected from contamination  [ date violation corrected: 4/12/2018 ]"
+  },
+  {
+    "business_id": 2756,
+    "date": 20171201,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 2756,
+    "date": 20170327,
+    "description": "Improper or defective plumbing  [ date violation corrected: 3/28/2017 ]"
+  },
+  {
+    "business_id": 2756,
+    "date": 20170327,
+    "description": "Sewage or wastewater contamination  [ date violation corrected: 3/28/2017 ]"
+  },
+  {
+    "business_id": 2756,
+    "date": 20160331,
+    "description": "Improper or defective plumbing  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 2768,
+    "date": 20160315,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 2/17/2017 ]"
+  },
+  {
+    "business_id": 2768,
+    "date": 20160315,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 2/17/2017 ]"
+  },
+  {
+    "business_id": 2777,
+    "date": 20171003,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 2777,
+    "date": 20171003,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 2777,
+    "date": 20171003,
+    "description": "Improper food storage"
+  },
+  {
+    "business_id": 2777,
+    "date": 20160603,
+    "description": "Improper food labeling or menu misrepresentation  [ date violation corrected: 6/3/2016 ]"
+  },
+  {
+    "business_id": 2777,
+    "date": 20160603,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 10/3/2017 ]"
+  },
+  {
+    "business_id": 2799,
+    "date": 20180403,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 2799,
+    "date": 20180403,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 2805,
+    "date": 20180418,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 4/18/2018 ]"
+  },
+  {
+    "business_id": 2805,
+    "date": 20170302,
+    "description": "Improper food storage  [ date violation corrected: 4/18/2018 ]"
+  },
+  {
+    "business_id": 2810,
+    "date": 20180308,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 2810,
+    "date": 20180308,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 2810,
+    "date": 20180308,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 2810,
+    "date": 20170206,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/8/2018 ]"
+  },
+  {
+    "business_id": 2810,
+    "date": 20160209,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/6/2017 ]"
+  },
+  {
+    "business_id": 2818,
+    "date": 20180308,
+    "description": "Inadequate dressing rooms or improper storage of personal items"
+  },
+  {
+    "business_id": 2818,
+    "date": 20180308,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 2818,
+    "date": 20170724,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/8/2018 ]"
+  },
+  {
+    "business_id": 2818,
+    "date": 20160916,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 7/24/2017 ]"
+  },
+  {
+    "business_id": 2818,
+    "date": 20160916,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 7/24/2017 ]"
+  },
+  {
+    "business_id": 2818,
+    "date": 20160916,
+    "description": "Improper food storage  [ date violation corrected: 7/24/2017 ]"
+  },
+  {
+    "business_id": 2871,
+    "date": 20180223,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 2871,
+    "date": 20170118,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 2/23/2018 ]"
+  },
+  {
+    "business_id": 2907,
+    "date": 20171204,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 3/20/2018 ]"
+  },
+  {
+    "business_id": 2907,
+    "date": 20171204,
+    "description": "High risk vermin infestation  [ date violation corrected: 3/20/2018 ]"
+  },
+  {
+    "business_id": 2907,
+    "date": 20171204,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 3/20/2018 ]"
+  },
+  {
+    "business_id": 2907,
+    "date": 20171204,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/4/2017 ]"
+  },
+  {
+    "business_id": 3032,
+    "date": 20171121,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/8/2017 ]"
+  },
+  {
+    "business_id": 3420,
+    "date": 20160901,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 3420,
+    "date": 20160901,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 3420,
+    "date": 20160901,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 3420,
+    "date": 20160901,
+    "description": "Unauthorized or unsafe use of time as a public health control measure"
+  },
+  {
+    "business_id": 3420,
+    "date": 20150810,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/1/2016 ]"
+  },
+  {
+    "business_id": 3420,
+    "date": 20150810,
+    "description": "Improper or defective plumbing  [ date violation corrected: 9/1/2016 ]"
+  },
+  {
+    "business_id": 4480,
+    "date": 20180711,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 4480,
+    "date": 20171114,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 7/11/2018 ]"
+  },
+  {
+    "business_id": 4539,
+    "date": 20171101,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 11/17/2017 ]"
+  },
+  {
+    "business_id": 4539,
+    "date": 20171101,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/17/2017 ]"
+  },
+  {
+    "business_id": 4539,
+    "date": 20171101,
+    "description": "Low risk vermin infestation  [ date violation corrected: 11/17/2017 ]"
+  },
+  {
+    "business_id": 4539,
+    "date": 20160602,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/1/2017 ]"
+  },
+  {
+    "business_id": 4539,
+    "date": 20160602,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 11/1/2017 ]"
+  },
+  {
+    "business_id": 4548,
+    "date": 20180213,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 4548,
+    "date": 20180213,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 4548,
+    "date": 20170814,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 2/13/2018 ]"
+  },
+  {
+    "business_id": 4548,
+    "date": 20170814,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 2/13/2018 ]"
+  },
+  {
+    "business_id": 4548,
+    "date": 20170814,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 2/13/2018 ]"
+  },
+  {
+    "business_id": 4548,
+    "date": 20161025,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 8/14/2017 ]"
+  },
+  {
+    "business_id": 4548,
+    "date": 20161025,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 8/14/2017 ]"
+  },
+  {
+    "business_id": 4548,
+    "date": 20160421,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 10/25/2016 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20180703,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 4636,
+    "date": 20180703,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 4636,
+    "date": 20180703,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 4636,
+    "date": 20170712,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 7/3/2018 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20170712,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/3/2018 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20170712,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 7/3/2018 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20161214,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 7/12/2017 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20161214,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/12/2017 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20160405,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/14/2016 ]"
+  },
+  {
+    "business_id": 4636,
+    "date": 20160405,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/14/2016 ]"
+  },
+  {
+    "business_id": 4656,
+    "date": 20171011,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 4656,
+    "date": 20171011,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 4656,
+    "date": 20161011,
+    "description": "Improper food storage  [ date violation corrected: 10/11/2017 ]"
+  },
+  {
+    "business_id": 4656,
+    "date": 20161011,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 10/11/2017 ]"
+  },
+  {
+    "business_id": 4656,
+    "date": 20160411,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 4656,
+    "date": 20160411,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 4656,
+    "date": 20160411,
+    "description": "Improper or defective plumbing  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 4681,
+    "date": 20180516,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 4681,
+    "date": 20170901,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20171120,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 11/20/2017 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20171120,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 11/20/2017 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20171120,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 4804,
+    "date": 20171120,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 4804,
+    "date": 20161206,
+    "description": "Improper or defective plumbing  [ date violation corrected: 11/20/2017 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20161206,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 12/14/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20161206,
+    "description": "Improper thawing methods   [ date violation corrected: 12/6/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20161206,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/6/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20160627,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 6/27/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20160627,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 6/28/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20160627,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 6/28/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20151113,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 6/27/2016 ]"
+  },
+  {
+    "business_id": 4804,
+    "date": 20151113,
+    "description": "Inadequate or unsanitary refuse containers or area or no garbage service  [ date violation corrected: 6/27/2016 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20171227,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20171227,
+    "description": "Improper storage use or identification of toxic substances  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20170103,
+    "description": "Foods not protected from contamination  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20170103,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20170103,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20170103,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4819,
+    "date": 20170103,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 4841,
+    "date": 20151030,
+    "description": "High risk food holding temperature   [ date violation corrected: 12/5/2017 ]"
+  },
+  {
+    "business_id": 4841,
+    "date": 20151030,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/5/2017 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20180629,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 5000,
+    "date": 20170628,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 6/28/2018 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20170628,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 6/28/2018 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20170628,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/28/2018 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20170628,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 6/28/2017 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20160624,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/28/2017 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20160624,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 6/28/2017 ]"
+  },
+  {
+    "business_id": 5000,
+    "date": 20160624,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 6/28/2017 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20180515,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 5011,
+    "date": 20171025,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 5/15/2018 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20171025,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/15/2018 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160902,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 10/25/2017 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160902,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/2/2016 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160902,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 10/25/2017 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160301,
+    "description": "No hot water or running water  [ date violation corrected: 3/3/2016 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160301,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 9/2/2016 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160301,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 9/2/2016 ]"
+  },
+  {
+    "business_id": 5011,
+    "date": 20160301,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 3/3/2016 ]"
+  },
+  {
+    "business_id": 5019,
+    "date": 20180402,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 5019,
+    "date": 20170428,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/2/2018 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20180430,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 5156,
+    "date": 20180430,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 5156,
+    "date": 20170804,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/18/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20170804,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 8/18/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20170804,
+    "description": "Inadequate or unsanitary refuse containers or area or no garbage service  [ date violation corrected: 8/18/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20161024,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/4/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20161024,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/4/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20161024,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 8/4/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20161024,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/4/2017 ]"
+  },
+  {
+    "business_id": 5156,
+    "date": 20161024,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 8/4/2017 ]"
+  },
+  {
+    "business_id": 5430,
+    "date": 20160525,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 4/18/2017 ]"
+  },
+  {
+    "business_id": 5434,
+    "date": 20170418,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 4/21/2017 ]"
+  },
+  {
+    "business_id": 5434,
+    "date": 20160622,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 4/18/2017 ]"
+  },
+  {
+    "business_id": 5441,
+    "date": 20160819,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 7/3/2018 ]"
+  },
+  {
+    "business_id": 5441,
+    "date": 20160819,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 7/3/2018 ]"
+  },
+  {
+    "business_id": 5441,
+    "date": 20150828,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/19/2016 ]"
+  },
+  {
+    "business_id": 5441,
+    "date": 20150828,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 8/19/2016 ]"
+  },
+  {
+    "business_id": 5463,
+    "date": 20170919,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 5463,
+    "date": 20170424,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 5463,
+    "date": 20160814,
+    "description": "No hot water or running water  [ date violation corrected: 9/12/2016 ]"
+  },
+  {
+    "business_id": 5463,
+    "date": 20160410,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/14/2016 ]"
+  },
+  {
+    "business_id": 5524,
+    "date": 20161006,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 5524,
+    "date": 20150830,
+    "description": "No hot water or running water  [ date violation corrected: 4/10/2016 ]"
+  },
+  {
+    "business_id": 5528,
+    "date": 20160410,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 4/24/2017 ]"
+  },
+  {
+    "business_id": 5544,
+    "date": 20170424,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 5544,
+    "date": 20160410,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 4/24/2017 ]"
+  },
+  {
+    "business_id": 5619,
+    "date": 20170424,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 5619,
+    "date": 20170424,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 5619,
+    "date": 20170424,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 5619,
+    "date": 20160410,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/24/2017 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20170919,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 5634,
+    "date": 20170919,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20170919,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 5634,
+    "date": 20170424,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20161011,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 4/24/2017 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20160814,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20150914,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/19/2015 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20150914,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 4/19/2015 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20150830,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20150830,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 5634,
+    "date": 20150830,
+    "description": "Improper or defective plumbing  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20180417,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/13/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20180417,
+    "description": "Low risk vermin infestation  [ date violation corrected: 6/13/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20180417,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 6/13/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20180417,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 6/13/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20180417,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 6/13/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20170105,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 4/17/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20170105,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/17/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20170105,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 4/17/2018 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20160621,
+    "description": "Low risk vermin infestation  [ date violation corrected: 1/5/2017 ]"
+  },
+  {
+    "business_id": 6636,
+    "date": 20160621,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 1/5/2017 ]"
+  },
+  {
+    "business_id": 9155,
+    "date": 20180328,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 9155,
+    "date": 20161006,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/28/2018 ]"
+  },
+  {
+    "business_id": 9155,
+    "date": 20161006,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 3/28/2018 ]"
+  },
+  {
+    "business_id": 9155,
+    "date": 20161006,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 3/28/2018 ]"
+  },
+  {
+    "business_id": 9289,
+    "date": 20180803,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 9289,
+    "date": 20180803,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 9289,
+    "date": 20180803,
+    "description": "High risk food holding temperature"
+  },
+  {
+    "business_id": 9289,
+    "date": 20180803,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 9289,
+    "date": 20180803,
+    "description": "Improper thawing methods"
+  },
+  {
+    "business_id": 9289,
+    "date": 20180803,
+    "description": "Improper food storage"
+  },
+  {
+    "business_id": 9289,
+    "date": 20171030,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/3/2018 ]"
+  },
+  {
+    "business_id": 9289,
+    "date": 20171030,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/30/2017 ]"
+  },
+  {
+    "business_id": 9289,
+    "date": 20161114,
+    "description": "Low risk vermin infestation  [ date violation corrected: 10/30/2017 ]"
+  },
+  {
+    "business_id": 9289,
+    "date": 20161114,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 10/30/2017 ]"
+  },
+  {
+    "business_id": 9289,
+    "date": 20161114,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 10/30/2017 ]"
+  },
+  {
+    "business_id": 9289,
+    "date": 20161114,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 11/14/2016 ]"
+  },
+  {
+    "business_id": 10362,
+    "date": 20171204,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 10362,
+    "date": 20171204,
+    "description": "Other low risk violation"
+  },
+  {
+    "business_id": 10377,
+    "date": 20170424,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20161011,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20160814,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20160814,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20160814,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20160814,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20150830,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20150830,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 10377,
+    "date": 20150830,
+    "description": "No hot water or running water  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 11289,
+    "date": 20180307,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 4/17/2018 ]"
+  },
+  {
+    "business_id": 11289,
+    "date": 20180307,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 3/7/2018 ]"
+  },
+  {
+    "business_id": 11289,
+    "date": 20180307,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 11289,
+    "date": 20160802,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 3/7/2018 ]"
+  },
+  {
+    "business_id": 11289,
+    "date": 20160802,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 3/7/2018 ]"
+  },
+  {
+    "business_id": 11487,
+    "date": 20170919,
+    "description": "No hot water or running water"
+  },
+  {
+    "business_id": 11487,
+    "date": 20170919,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 11487,
+    "date": 20170424,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 11487,
+    "date": 20160410,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/1/2016 ]"
+  },
+  {
+    "business_id": 11487,
+    "date": 20160410,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 8/1/2016 ]"
+  },
+  {
+    "business_id": 11487,
+    "date": 20150830,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 4/10/2016 ]"
+  },
+  {
+    "business_id": 11488,
+    "date": 20160410,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 8/14/2016 ]"
+  },
+  {
+    "business_id": 14071,
+    "date": 20180307,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 14071,
+    "date": 20180307,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 14071,
+    "date": 20180307,
+    "description": "No thermometers or uncalibrated thermometers"
+  },
+  {
+    "business_id": 14071,
+    "date": 20160802,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 8/2/2016 ]"
+  },
+  {
+    "business_id": 14075,
+    "date": 20160711,
+    "description": "Insufficient hot water or running water"
+  },
+  {
+    "business_id": 14075,
+    "date": 20160711,
+    "description": "Improper food storage"
+  },
+  {
+    "business_id": 15752,
+    "date": 20160414,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 7/6/2016 ]"
+  },
+  {
+    "business_id": 16286,
+    "date": 20161118,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/15/2017 ]"
+  },
+  {
+    "business_id": 16286,
+    "date": 20161118,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 12/15/2017 ]"
+  },
+  {
+    "business_id": 16286,
+    "date": 20161118,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/15/2017 ]"
+  },
+  {
+    "business_id": 16286,
+    "date": 20161118,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 12/15/2017 ]"
+  },
+  {
+    "business_id": 17822,
+    "date": 20180327,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 4/9/2018 ]"
+  },
+  {
+    "business_id": 17822,
+    "date": 20150925,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 10/21/2015 ]"
+  },
+  {
+    "business_id": 17822,
+    "date": 20150925,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 10/21/2015 ]"
+  },
+  {
+    "business_id": 18399,
+    "date": 20161003,
+    "description": "Foods not protected from contamination  [ date violation corrected: 12/19/2017 ]"
+  },
+  {
+    "business_id": 18399,
+    "date": 20160401,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 10/3/2016 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20180607,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 19002,
+    "date": 20180607,
+    "description": "Unclean or unsanitary food contact surfaces"
+  },
+  {
+    "business_id": 19002,
+    "date": 20180607,
+    "description": "Foods not protected from contamination"
+  },
+  {
+    "business_id": 19002,
+    "date": 20170620,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 6/7/2018 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20170620,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20170620,
+    "description": "Foods not protected from contamination  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20170620,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160929,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160929,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160929,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160225,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 9/29/2016 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160225,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 9/29/2016 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160225,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 9/29/2016 ]"
+  },
+  {
+    "business_id": 19002,
+    "date": 20160225,
+    "description": "Improper or defective plumbing  [ date violation corrected: 9/29/2016 ]"
+  },
+  {
+    "business_id": 19403,
+    "date": 20180302,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 19403,
+    "date": 20180302,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 3/15/2018 ]"
+  },
+  {
+    "business_id": 19403,
+    "date": 20170905,
+    "description": "Improper or defective plumbing  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 19403,
+    "date": 20170905,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 19403,
+    "date": 20160822,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 9/5/2017 ]"
+  },
+  {
+    "business_id": 19403,
+    "date": 20160329,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/22/2016 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20180718,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 7/18/2018 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20180718,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 19416,
+    "date": 20171122,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/18/2018 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20171122,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 7/18/2018 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20171122,
+    "description": "Improper or defective plumbing  [ date violation corrected: 7/18/2018 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20161222,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/22/2017 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20161222,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 11/22/2017 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20160629,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/22/2016 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20160629,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 12/22/2016 ]"
+  },
+  {
+    "business_id": 19416,
+    "date": 20160629,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/22/2016 ]"
+  },
+  {
+    "business_id": 19417,
+    "date": 20171128,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 19417,
+    "date": 20171128,
+    "description": "Worker safety hazards"
+  },
+  {
+    "business_id": 19417,
+    "date": 20170224,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 11/28/2017 ]"
+  },
+  {
+    "business_id": 19417,
+    "date": 20170224,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/28/2017 ]"
+  },
+  {
+    "business_id": 19418,
+    "date": 20180626,
+    "description": "Insufficient hot water or running water"
+  },
+  {
+    "business_id": 19418,
+    "date": 20170208,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/26/2018 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20171211,
+    "description": "Low risk vermin infestation  [ date violation corrected: 1/11/2018 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20171211,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/11/2018 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20171211,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 1/11/2018 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20171211,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 1/11/2018 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20171211,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 1/11/2018 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20170224,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 2/24/2017 ]"
+  },
+  {
+    "business_id": 21407,
+    "date": 20170224,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/11/2017 ]"
+  },
+  {
+    "business_id": 22177,
+    "date": 20171205,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 22177,
+    "date": 20171205,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 22177,
+    "date": 20171205,
+    "description": "Other low risk violation"
+  },
+  {
+    "business_id": 22177,
+    "date": 20171205,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 24431,
+    "date": 20180625,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 24431,
+    "date": 20180625,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 24431,
+    "date": 20180625,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 7/2/2018 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20171213,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 6/25/2018 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20171213,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 1/5/2018 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20171213,
+    "description": "Low risk vermin infestation  [ date violation corrected: 1/3/2018 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20170112,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/13/2017 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20170112,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 12/13/2017 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20150828,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 8/28/2015 ]"
+  },
+  {
+    "business_id": 24431,
+    "date": 20150828,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/3/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20180615,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 28209,
+    "date": 20180615,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 28209,
+    "date": 20171027,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 10/27/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20171027,
+    "description": "High risk food holding temperature   [ date violation corrected: 11/15/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20170119,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 10/26/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20170119,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/26/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20170119,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 10/26/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20170119,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 10/26/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20151224,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 1/19/2017 ]"
+  },
+  {
+    "business_id": 28209,
+    "date": 20151224,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/19/2017 ]"
+  },
+  {
+    "business_id": 32578,
+    "date": 20171018,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 32578,
+    "date": 20171018,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 32578,
+    "date": 20171018,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager"
+  },
+  {
+    "business_id": 32578,
+    "date": 20160531,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 10/18/2017 ]"
+  },
+  {
+    "business_id": 32578,
+    "date": 20160531,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/18/2017 ]"
+  },
+  {
+    "business_id": 32579,
+    "date": 20170918,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 32579,
+    "date": 20160725,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 32579,
+    "date": 20160128,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 7/25/2016 ]"
+  },
+  {
+    "business_id": 32579,
+    "date": 20160128,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/28/2016 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20171024,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 10/27/2017 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20171024,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 10/27/2017 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20170228,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 10/24/2017 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20170228,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 10/24/2017 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20170228,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 10/24/2017 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20160822,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/22/2016 ]"
+  },
+  {
+    "business_id": 32823,
+    "date": 20160822,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 2/28/2017 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20180314,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 33198,
+    "date": 20170908,
+    "description": "High risk food holding temperature   [ date violation corrected: 9/29/2017 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20170908,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 9/15/2017 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20170908,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 9/15/2017 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20170908,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/14/2018 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20160804,
+    "description": "High risk food holding temperature   [ date violation corrected: 9/8/2017 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20160804,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 9/8/2017 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20160310,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 3/28/2016 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20160310,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/25/2016 ]"
+  },
+  {
+    "business_id": 33198,
+    "date": 20160310,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 3/25/2016 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20180214,
+    "description": "Improper reheating of food  [ date violation corrected: 2/14/2018 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20180214,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 2/14/2018 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20180214,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 33914,
+    "date": 20180214,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities"
+  },
+  {
+    "business_id": 33914,
+    "date": 20180214,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 33914,
+    "date": 20170329,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 4/6/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20170329,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 2/14/2018 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20170329,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 4/6/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20170329,
+    "description": "High risk food holding temperature   [ date violation corrected: 4/6/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20170329,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 3/29/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160803,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/29/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160803,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 3/29/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160803,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 3/29/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160803,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 3/29/2017 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160216,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 8/3/2016 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160216,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 8/3/2016 ]"
+  },
+  {
+    "business_id": 33914,
+    "date": 20160216,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 8/3/2016 ]"
+  },
+  {
+    "business_id": 33945,
+    "date": 20170120,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager"
+  },
+  {
+    "business_id": 33945,
+    "date": 20170120,
+    "description": "No thermometers or uncalibrated thermometers"
+  },
+  {
+    "business_id": 33945,
+    "date": 20170120,
+    "description": "Other moderate risk violation"
+  },
+  {
+    "business_id": 35469,
+    "date": 20171129,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 35469,
+    "date": 20171129,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 35469,
+    "date": 20171129,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 35469,
+    "date": 20171129,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 35469,
+    "date": 20161209,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/29/2017 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20161209,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 11/29/2017 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20161209,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12/9/2016 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20161209,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 11/29/2017 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20160603,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 6/10/2016 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20160603,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 6/10/2016 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20160603,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 6/10/2016 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20160603,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 6/10/2016 ]"
+  },
+  {
+    "business_id": 35469,
+    "date": 20160603,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/10/2016 ]"
+  },
+  {
+    "business_id": 35771,
+    "date": 20171211,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 35771,
+    "date": 20160419,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 12/11/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20171128,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 35786,
+    "date": 20171128,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 35786,
+    "date": 20171128,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 11/28/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20170210,
+    "description": "Low risk vermin infestation  [ date violation corrected: 2/17/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20170210,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 2/17/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20170210,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/17/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20160520,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 2/10/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20160511,
+    "description": "High risk food holding temperature   [ date violation corrected: 5/20/2016 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20160511,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 2/10/2017 ]"
+  },
+  {
+    "business_id": 35786,
+    "date": 20160511,
+    "description": "Improper reheating of food  [ date violation corrected: 5/11/2016 ]"
+  },
+  {
+    "business_id": 35790,
+    "date": 20160811,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/12/2017 ]"
+  },
+  {
+    "business_id": 35882,
+    "date": 20180518,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 35882,
+    "date": 20180518,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 35882,
+    "date": 20170828,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 5/18/2018 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20180205,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 2/5/2018 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20180205,
+    "description": "High risk food holding temperature   [ date violation corrected: 2/23/2018 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20170505,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 5/5/2017 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20160713,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 7/13/2016 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20160713,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 7/13/2016 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20160713,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 7/13/2016 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20160713,
+    "description": "Improper food storage  [ date violation corrected: 5/5/2017 ]"
+  },
+  {
+    "business_id": 36494,
+    "date": 20150817,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 7/13/2016 ]"
+  },
+  {
+    "business_id": 37688,
+    "date": 20180510,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 37688,
+    "date": 20180510,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 37688,
+    "date": 20170919,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/10/2018 ]"
+  },
+  {
+    "business_id": 37688,
+    "date": 20170919,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 37688,
+    "date": 20160726,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 7/26/2016 ]"
+  },
+  {
+    "business_id": 39025,
+    "date": 20170906,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 39665,
+    "date": 20180126,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 1/26/2018 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20180126,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/26/2018 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20170728,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/26/2018 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20170728,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 1/26/2018 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20170728,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 1/26/2018 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20160701,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 7/28/2017 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20160701,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/28/2017 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20151121,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20151121,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20151121,
+    "description": "Foods not protected from contamination  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20151121,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20151121,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 39665,
+    "date": 20151121,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20180427,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 4/24/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20180427,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 39667,
+    "date": 20180427,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 39667,
+    "date": 20180427,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170912,
+    "description": "Other moderate risk violation  [ date violation corrected: 4/27/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170912,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 4/27/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170912,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 4/27/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170912,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 4/27/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170912,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 4/27/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170912,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 4/27/2018 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170308,
+    "description": "Other moderate risk violation  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170308,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170308,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20170308,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20160906,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/6/2016 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20151016,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 9/5/2016 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20151016,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/5/2016 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20151016,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 9/5/2016 ]"
+  },
+  {
+    "business_id": 39667,
+    "date": 20151016,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/5/2016 ]"
+  },
+  {
+    "business_id": 59021,
+    "date": 20180202,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 2/2/2018 ]"
+  },
+  {
+    "business_id": 59021,
+    "date": 20180202,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 59021,
+    "date": 20170202,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 2/2/2017 ]"
+  },
+  {
+    "business_id": 59021,
+    "date": 20170202,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/2/2018 ]"
+  },
+  {
+    "business_id": 59021,
+    "date": 20160722,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/2/2017 ]"
+  },
+  {
+    "business_id": 60029,
+    "date": 20170725,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 8/1/2017 ]"
+  },
+  {
+    "business_id": 60029,
+    "date": 20170725,
+    "description": "Low risk vermin infestation  [ date violation corrected: 8/1/2017 ]"
+  },
+  {
+    "business_id": 60029,
+    "date": 20170725,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 7/25/2017 ]"
+  },
+  {
+    "business_id": 60029,
+    "date": 20170725,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 8/1/2017 ]"
+  },
+  {
+    "business_id": 60029,
+    "date": 20170725,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/1/2017 ]"
+  },
+  {
+    "business_id": 60547,
+    "date": 20170421,
+    "description": "Inadequate procedures or records for time as a public health control"
+  },
+  {
+    "business_id": 60547,
+    "date": 20170421,
+    "description": "Foods not protected from contamination"
+  },
+  {
+    "business_id": 60547,
+    "date": 20160624,
+    "description": "Improper food storage  [ date violation corrected: 4/21/2017 ]"
+  },
+  {
+    "business_id": 60547,
+    "date": 20160624,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 4/21/2017 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20180608,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 6/14/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20180608,
+    "description": "No hot water or running water  [ date violation corrected: 6/14/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20180608,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 6/14/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20180608,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 6/14/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20180608,
+    "description": "Improper or defective plumbing  [ date violation corrected: 6/14/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20170421,
+    "description": "Inadequate sewage or wastewater disposal  [ date violation corrected: 6/8/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20170421,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 6/8/2018 ]"
+  },
+  {
+    "business_id": 60548,
+    "date": 20170421,
+    "description": "Foods not protected from contamination  [ date violation corrected: 4/21/2017 ]"
+  },
+  {
+    "business_id": 60549,
+    "date": 20151010,
+    "description": "Insufficient hot water or running water"
+  },
+  {
+    "business_id": 60549,
+    "date": 20151010,
+    "description": "Inadequate sewage or wastewater disposal"
+  },
+  {
+    "business_id": 60550,
+    "date": 20180614,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 60550,
+    "date": 20180614,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 60550,
+    "date": 20180614,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 60550,
+    "date": 20170224,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 4/19/2017 ]"
+  },
+  {
+    "business_id": 60550,
+    "date": 20170224,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 4/19/2017 ]"
+  },
+  {
+    "business_id": 60550,
+    "date": 20160701,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 2/24/2017 ]"
+  },
+  {
+    "business_id": 60550,
+    "date": 20150828,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 60550,
+    "date": 20150828,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20161103,
+    "description": "Improper food storage  [ date violation corrected: 11/3/2016 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20161103,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 11/3/2016 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20150820,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 8/28/2015 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20150820,
+    "description": "High risk vermin infestation  [ date violation corrected: 8/28/2015 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20150820,
+    "description": "Improper food storage  [ date violation corrected: 8/28/2015 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20150820,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 8/28/2015 ]"
+  },
+  {
+    "business_id": 60551,
+    "date": 20150820,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/28/2015 ]"
+  },
+  {
+    "business_id": 62674,
+    "date": 20170817,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 63619,
+    "date": 20180731,
+    "description": "High risk food holding temperature   [ date violation corrected: 8/8/2018 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20180731,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 7/31/2018 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170919,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/30/2018 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170919,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 7/30/2018 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170919,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170131,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 3/17/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170131,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/17/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170131,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 3/24/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20170131,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20160829,
+    "description": "Unsanitary employee garments hair or nails  [ date violation corrected: 1/31/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20160829,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 1/31/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20160829,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/31/2017 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20160520,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/29/2016 ]"
+  },
+  {
+    "business_id": 63619,
+    "date": 20160520,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 8/29/2016 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20180302,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 3/15/2018 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20180302,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 65283,
+    "date": 20180302,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 3/2/2018 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20170831,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 3/2/2018 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20170831,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 3/2/2018 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20170831,
+    "description": "Improper or defective plumbing  [ date violation corrected: 3/2/2018 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20161222,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 8/31/2017 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20161222,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/31/2017 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20161222,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/31/2017 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20160617,
+    "description": "Improper or defective plumbing  [ date violation corrected: 6/29/2016 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20160617,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/22/2016 ]"
+  },
+  {
+    "business_id": 65283,
+    "date": 20160617,
+    "description": "High risk food holding temperature   [ date violation corrected: 6/29/2016 ]"
+  },
+  {
+    "business_id": 65580,
+    "date": 20170918,
+    "description": "High risk food holding temperature   [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 65580,
+    "date": 20170918,
+    "description": "Improper thawing methods   [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 65580,
+    "date": 20170918,
+    "description": "Inadequate dressing rooms or improper storage of personal items"
+  },
+  {
+    "business_id": 65580,
+    "date": 20170918,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 65580,
+    "date": 20160511,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 5/11/2016 ]"
+  },
+  {
+    "business_id": 65580,
+    "date": 20160511,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 5/11/2016 ]"
+  },
+  {
+    "business_id": 65580,
+    "date": 20160511,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 65580,
+    "date": 20160511,
+    "description": "Employee eating or smoking  [ date violation corrected: 5/11/2016 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "No thermometers or uncalibrated thermometers"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Inadequate dressing rooms or improper storage of personal items"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170127,
+    "description": "Unclean hands or improper use of gloves"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65674,
+    "date": 20170119,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 65826,
+    "date": 20170713,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 65826,
+    "date": 20170713,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 65826,
+    "date": 20161025,
+    "description": "Improper food storage  [ date violation corrected: 7/13/2017 ]"
+  },
+  {
+    "business_id": 65826,
+    "date": 20161025,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 11/8/2016 ]"
+  },
+  {
+    "business_id": 65826,
+    "date": 20161025,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 11/8/2016 ]"
+  },
+  {
+    "business_id": 65826,
+    "date": 20151023,
+    "description": "Low risk vermin infestation  [ date violation corrected: 10/25/2016 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20171204,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 1/4/2018 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20171204,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/4/2017 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20161129,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/4/2017 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20161129,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 11/29/2016 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20160531,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 5/31/2016 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20160531,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 11/29/2016 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20160531,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 11/29/2016 ]"
+  },
+  {
+    "business_id": 66363,
+    "date": 20160531,
+    "description": "Improper food storage  [ date violation corrected: 11/29/2016 ]"
+  },
+  {
+    "business_id": 66687,
+    "date": 20180614,
+    "description": "Improper thawing methods"
+  },
+  {
+    "business_id": 66687,
+    "date": 20170130,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/5/2017 ]"
+  },
+  {
+    "business_id": 67187,
+    "date": 20161011,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20180221,
+    "description": "Low risk vermin infestation  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20180221,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20180221,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20180221,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20180221,
+    "description": "High risk food holding temperature   [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20180221,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20160824,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 2/21/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20160824,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 2/21/2018 ]"
+  },
+  {
+    "business_id": 67510,
+    "date": 20160824,
+    "description": "Inadequate ventilation or lighting  [ date violation corrected: 2/21/2018 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20180711,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 7/11/2018 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20171011,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 7/11/2018 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20171011,
+    "description": "Improper food storage  [ date violation corrected: 10/11/2017 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20161110,
+    "description": "Improper food storage  [ date violation corrected: 1/26/2017 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20161110,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 1/26/2017 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20160520,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 11/10/2016 ]"
+  },
+  {
+    "business_id": 67602,
+    "date": 20160520,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 11/10/2016 ]"
+  },
+  {
+    "business_id": 68431,
+    "date": 20160920,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 68431,
+    "date": 20160920,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 68431,
+    "date": 20160920,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 68739,
+    "date": 20170926,
+    "description": "No hot water or running water  [ date violation corrected: 9/29/2017 ]"
+  },
+  {
+    "business_id": 68761,
+    "date": 20170127,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 68761,
+    "date": 20170127,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 68761,
+    "date": 20170127,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 68761,
+    "date": 20170119,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 68761,
+    "date": 20170119,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 68761,
+    "date": 20170119,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 1/25/2017 ]"
+  },
+  {
+    "business_id": 68944,
+    "date": 20180220,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 68944,
+    "date": 20180220,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 68944,
+    "date": 20170502,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 2/20/2018 ]"
+  },
+  {
+    "business_id": 68944,
+    "date": 20170502,
+    "description": "Improper or defective plumbing  [ date violation corrected: 2/20/2018 ]"
+  },
+  {
+    "business_id": 68944,
+    "date": 20170421,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 5/2/2017 ]"
+  },
+  {
+    "business_id": 69006,
+    "date": 20180516,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 69006,
+    "date": 20170616,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 69006,
+    "date": 20160321,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 3/21/2016 ]"
+  },
+  {
+    "business_id": 69006,
+    "date": 20160321,
+    "description": "Improper food labeling or menu misrepresentation  [ date violation corrected: 6/16/2017 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20170503,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 69249,
+    "date": 20170503,
+    "description": "Other moderate risk violation  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20161025,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/25/2016 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20161025,
+    "description": "Improper or defective plumbing  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20161025,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20160421,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 5/24/2016 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20160421,
+    "description": "High risk food holding temperature   [ date violation corrected: 5/24/2016 ]"
+  },
+  {
+    "business_id": 69249,
+    "date": 20160421,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 5/24/2016 ]"
+  },
+  {
+    "business_id": 69350,
+    "date": 20171121,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 69350,
+    "date": 20161110,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 1/26/2017 ]"
+  },
+  {
+    "business_id": 69350,
+    "date": 20160520,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 11/10/2016 ]"
+  },
+  {
+    "business_id": 69350,
+    "date": 20160520,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 5/20/2016 ]"
+  },
+  {
+    "business_id": 69350,
+    "date": 20160114,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 5/20/2016 ]"
+  },
+  {
+    "business_id": 69350,
+    "date": 20160114,
+    "description": "Inadequate ventilation or lighting  [ date violation corrected: 5/20/2016 ]"
+  },
+  {
+    "business_id": 69895,
+    "date": 20170228,
+    "description": "Improper food storage  [ date violation corrected: 3/29/2018 ]"
+  },
+  {
+    "business_id": 70416,
+    "date": 20180222,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 70416,
+    "date": 20180222,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 70416,
+    "date": 20161221,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 70416,
+    "date": 20161221,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 70416,
+    "date": 20161221,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 70416,
+    "date": 20161221,
+    "description": "Low risk vermin infestation  [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 70416,
+    "date": 20161221,
+    "description": "High risk food holding temperature   [ date violation corrected: 2/22/2018 ]"
+  },
+  {
+    "business_id": 70425,
+    "date": 20171117,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 70425,
+    "date": 20161007,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 11/17/2017 ]"
+  },
+  {
+    "business_id": 70425,
+    "date": 20161007,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 11/17/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20180102,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 70993,
+    "date": 20180102,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 70993,
+    "date": 20180102,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170620,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/2/2018 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170620,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 1/2/2018 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170523,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170523,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170523,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170523,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 5/23/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170523,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20170523,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 6/20/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20160804,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/23/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20160804,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 5/23/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20160804,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 5/23/2017 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20160405,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 8/4/2016 ]"
+  },
+  {
+    "business_id": 70993,
+    "date": 20160405,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/4/2016 ]"
+  },
+  {
+    "business_id": 71823,
+    "date": 20180712,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 7/13/2018 ]"
+  },
+  {
+    "business_id": 71823,
+    "date": 20180712,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 71823,
+    "date": 20180712,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 71823,
+    "date": 20180712,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 71823,
+    "date": 20180712,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 7/12/2018 ]"
+  },
+  {
+    "business_id": 71823,
+    "date": 20171227,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 7/12/2018 ]"
+  },
+  {
+    "business_id": 71823,
+    "date": 20171227,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 71823,
+    "date": 20161222,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20180706,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 72159,
+    "date": 20180706,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 72159,
+    "date": 20180706,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 72159,
+    "date": 20170815,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 7/6/2018 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20161215,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 8/15/2017 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20161215,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 8/15/2017 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20161215,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/15/2017 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20161215,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/15/2017 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20160422,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 12/15/2016 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20160422,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 12/15/2016 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20160422,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12/15/2016 ]"
+  },
+  {
+    "business_id": 72159,
+    "date": 20160422,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/15/2016 ]"
+  },
+  {
+    "business_id": 74327,
+    "date": 20170424,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 74336,
+    "date": 20160814,
+    "description": "Foods not protected from contamination  [ date violation corrected: 8/14/2016 ]"
+  },
+  {
+    "business_id": 74336,
+    "date": 20160410,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 4/10/2016 ]"
+  },
+  {
+    "business_id": 75078,
+    "date": 20171005,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities"
+  },
+  {
+    "business_id": 75078,
+    "date": 20171005,
+    "description": "Other low risk violation"
+  },
+  {
+    "business_id": 75078,
+    "date": 20170307,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/5/2017 ]"
+  },
+  {
+    "business_id": 75078,
+    "date": 20160714,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/7/2017 ]"
+  },
+  {
+    "business_id": 75078,
+    "date": 20160714,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 3/7/2017 ]"
+  },
+  {
+    "business_id": 75078,
+    "date": 20160714,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 3/7/2017 ]"
+  },
+  {
+    "business_id": 75078,
+    "date": 20151117,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/9/2015 ]"
+  },
+  {
+    "business_id": 75078,
+    "date": 20151117,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 12/9/2015 ]"
+  },
+  {
+    "business_id": 75173,
+    "date": 20171221,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 75173,
+    "date": 20171221,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12:21:17 PM ]"
+  },
+  {
+    "business_id": 75173,
+    "date": 20171221,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12:21:17 PM ]"
+  },
+  {
+    "business_id": 75277,
+    "date": 20170503,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 75277,
+    "date": 20170503,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 75277,
+    "date": 20160524,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 76142,
+    "date": 20171004,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 10/4/2017 ]"
+  },
+  {
+    "business_id": 76142,
+    "date": 20160824,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 10/4/2017 ]"
+  },
+  {
+    "business_id": 76142,
+    "date": 20160824,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 10/4/2017 ]"
+  },
+  {
+    "business_id": 76142,
+    "date": 20160824,
+    "description": "Improper food storage  [ date violation corrected: 10/4/2017 ]"
+  },
+  {
+    "business_id": 76223,
+    "date": 20170919,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 76223,
+    "date": 20160814,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/27/2016 ]"
+  },
+  {
+    "business_id": 76223,
+    "date": 20160410,
+    "description": "No hot water or running water  [ date violation corrected: 4/10/2016 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20170919,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 76233,
+    "date": 20170919,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20170424,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20170424,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20161011,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20161011,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20160410,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/7/2016 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20150830,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 76233,
+    "date": 20150830,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/20/2015 ]"
+  },
+  {
+    "business_id": 76503,
+    "date": 20180110,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 76503,
+    "date": 20180110,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 1/10/2018 ]"
+  },
+  {
+    "business_id": 76503,
+    "date": 20180110,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 1/10/2018 ]"
+  },
+  {
+    "business_id": 76503,
+    "date": 20180110,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 76503,
+    "date": 20170103,
+    "description": "Improper or defective plumbing  [ date violation corrected: 1/10/2018 ]"
+  },
+  {
+    "business_id": 76503,
+    "date": 20151130,
+    "description": "Improper or defective plumbing  [ date violation corrected: 1/3/2017 ]"
+  },
+  {
+    "business_id": 76503,
+    "date": 20151130,
+    "description": "Foods not protected from contamination  [ date violation corrected: 1/3/2017 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20171227,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 1/4/2018 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20171227,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/4/2018 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20171227,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 1/4/2018 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20171227,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20171227,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 1/4/2018 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20161014,
+    "description": "Improper food labeling or menu misrepresentation  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20161014,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20161014,
+    "description": "Inadequate or unsanitary refuse containers or area or no garbage service  [ date violation corrected: 12/27/2017 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20151023,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20151023,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 77580,
+    "date": 20151023,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 10/14/2016 ]"
+  },
+  {
+    "business_id": 78368,
+    "date": 20161011,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 78368,
+    "date": 20160814,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 10/11/2016 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20180201,
+    "description": "Improper storage use or identification of toxic substances"
+  },
+  {
+    "business_id": 78645,
+    "date": 20180201,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 78645,
+    "date": 20180201,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 78645,
+    "date": 20170803,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 8/11/2017 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20170803,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/1/2018 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20170803,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 8/11/2017 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20170803,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 2/1/2018 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20160719,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 7/20/2016 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20160719,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 7/20/2016 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20151223,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 7/19/2016 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20151223,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 7/19/2016 ]"
+  },
+  {
+    "business_id": 78645,
+    "date": 20151223,
+    "description": "Improper food storage  [ date violation corrected: 7/19/2016 ]"
+  },
+  {
+    "business_id": 78724,
+    "date": 20160818,
+    "description": "Low risk vermin infestation  [ date violation corrected: 12/12/2017 ]"
+  },
+  {
+    "business_id": 78724,
+    "date": 20160818,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 12/12/2017 ]"
+  },
+  {
+    "business_id": 78724,
+    "date": 20160205,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 8/18/2016 ]"
+  },
+  {
+    "business_id": 78724,
+    "date": 20160205,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/18/2016 ]"
+  },
+  {
+    "business_id": 79010,
+    "date": 20170919,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/20/2017 ]"
+  },
+  {
+    "business_id": 79010,
+    "date": 20170919,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/20/2017 ]"
+  },
+  {
+    "business_id": 79010,
+    "date": 20160410,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 79193,
+    "date": 20180516,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 79193,
+    "date": 20170503,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 79193,
+    "date": 20161025,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 10/25/2016 ]"
+  },
+  {
+    "business_id": 79193,
+    "date": 20161025,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 5/3/2017 ]"
+  },
+  {
+    "business_id": 79193,
+    "date": 20160502,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 5/24/2016 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20180330,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 3/30/2018 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20180330,
+    "description": "Improper or defective plumbing  [ date violation corrected: 4/6/2018 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20180330,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 4/6/2018 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20161215,
+    "description": "Improper food storage  [ date violation corrected: 3/30/2018 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20161215,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 3/30/2018 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20161215,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 3/30/2018 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20151008,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 12/15/2016 ]"
+  },
+  {
+    "business_id": 79970,
+    "date": 20151008,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/15/2016 ]"
+  },
+  {
+    "business_id": 80037,
+    "date": 20171128,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 80037,
+    "date": 20171128,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 80037,
+    "date": 20161108,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 11/28/2017 ]"
+  },
+  {
+    "business_id": 80044,
+    "date": 20170912,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 80044,
+    "date": 20170912,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 80044,
+    "date": 20170912,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 80044,
+    "date": 20160803,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 8/3/2016 ]"
+  },
+  {
+    "business_id": 80044,
+    "date": 20160803,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 9/12/2017 ]"
+  },
+  {
+    "business_id": 80044,
+    "date": 20151016,
+    "description": "Low risk vermin infestation  [ date violation corrected: 8/4/2016 ]"
+  },
+  {
+    "business_id": 80044,
+    "date": 20151016,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 8/4/2016 ]"
+  },
+  {
+    "business_id": 80279,
+    "date": 20161102,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 80279,
+    "date": 20161102,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 80974,
+    "date": 20160720,
+    "description": "No hot water or running water  [ date violation corrected: 7/22/2016 ]"
+  },
+  {
+    "business_id": 81166,
+    "date": 20170829,
+    "description": "Foods not protected from contamination  [ date violation corrected: 6/13/2018 ]"
+  },
+  {
+    "business_id": 81166,
+    "date": 20160617,
+    "description": "High risk food holding temperature   [ date violation corrected: 6/17/2016 ]"
+  },
+  {
+    "business_id": 81166,
+    "date": 20160617,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/31/2017 ]"
+  },
+  {
+    "business_id": 81166,
+    "date": 20160617,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 6/17/2016 ]"
+  },
+  {
+    "business_id": 81356,
+    "date": 20180802,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 81356,
+    "date": 20160413,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 81356,
+    "date": 20160413,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 81356,
+    "date": 20160413,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 4/15/2016 ]"
+  },
+  {
+    "business_id": 81357,
+    "date": 20160810,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 12/5/2017 ]"
+  },
+  {
+    "business_id": 81357,
+    "date": 20151029,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 10/29/2015 ]"
+  },
+  {
+    "business_id": 81670,
+    "date": 20151029,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 10/29/2015 ]"
+  },
+  {
+    "business_id": 81670,
+    "date": 20151029,
+    "description": "No thermometers or uncalibrated thermometers   [ date violation corrected: 8/10/2016 ]"
+  },
+  {
+    "business_id": 81861,
+    "date": 20180502,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 5/17/2018 ]"
+  },
+  {
+    "business_id": 81861,
+    "date": 20180502,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 81861,
+    "date": 20180502,
+    "description": "Permit license or inspection report not posted"
+  },
+  {
+    "business_id": 81861,
+    "date": 20180502,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 5/17/2018 ]"
+  },
+  {
+    "business_id": 81861,
+    "date": 20170831,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 5/2/2018 ]"
+  },
+  {
+    "business_id": 81861,
+    "date": 20170831,
+    "description": "Improper or defective plumbing  [ date violation corrected: 5/2/2018 ]"
+  },
+  {
+    "business_id": 81861,
+    "date": 20170831,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 5/2/2018 ]"
+  },
+  {
+    "business_id": 81861,
+    "date": 20170831,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 5/2/2018 ]"
+  },
+  {
+    "business_id": 82429,
+    "date": 20180622,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 82429,
+    "date": 20180622,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 6/22/2018 ]"
+  },
+  {
+    "business_id": 82429,
+    "date": 20171114,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 11/14/2017 ]"
+  },
+  {
+    "business_id": 82429,
+    "date": 20160929,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/29/2016 ]"
+  },
+  {
+    "business_id": 82429,
+    "date": 20160315,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 3/18/2016 ]"
+  },
+  {
+    "business_id": 82653,
+    "date": 20170926,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 82653,
+    "date": 20170926,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 82715,
+    "date": 20160524,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 12/7/2016 ]"
+  },
+  {
+    "business_id": 82718,
+    "date": 20161207,
+    "description": "Improper food storage  [ date violation corrected: 1/8/2018 ]"
+  },
+  {
+    "business_id": 82718,
+    "date": 20161207,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 1/8/2018 ]"
+  },
+  {
+    "business_id": 82718,
+    "date": 20160524,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 12/7/2016 ]"
+  },
+  {
+    "business_id": 82718,
+    "date": 20160524,
+    "description": "Foods not protected from contamination  [ date violation corrected: 12/7/2016 ]"
+  },
+  {
+    "business_id": 82719,
+    "date": 20180712,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 82719,
+    "date": 20180712,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 82719,
+    "date": 20180712,
+    "description": "Inadequate dressing rooms or improper storage of personal items"
+  },
+  {
+    "business_id": 82719,
+    "date": 20180712,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 82719,
+    "date": 20180712,
+    "description": "Unclean or unsanitary food contact surfaces"
+  },
+  {
+    "business_id": 82719,
+    "date": 20180712,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 82719,
+    "date": 20170227,
+    "description": "High risk food holding temperature   [ date violation corrected: 2/27/2017 ]"
+  },
+  {
+    "business_id": 82719,
+    "date": 20170227,
+    "description": "Improper thawing methods   [ date violation corrected: 2/27/2017 ]"
+  },
+  {
+    "business_id": 82721,
+    "date": 20180108,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 1/8/2018 ]"
+  },
+  {
+    "business_id": 82721,
+    "date": 20161207,
+    "description": "Improper storage use or identification of toxic substances  [ date violation corrected: 1/8/2018 ]"
+  },
+  {
+    "business_id": 82721,
+    "date": 20161207,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 1/8/2018 ]"
+  },
+  {
+    "business_id": 82721,
+    "date": 20161207,
+    "description": "Inadequate procedures or records for time as a public health control   [ date violation corrected: 1/8/2018 ]"
+  },
+  {
+    "business_id": 82721,
+    "date": 20160524,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 12/7/2016 ]"
+  },
+  {
+    "business_id": 82930,
+    "date": 20171016,
+    "description": "Unclean or unsanitary food contact surfaces"
+  },
+  {
+    "business_id": 82930,
+    "date": 20160705,
+    "description": "Employee eating or smoking  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 82930,
+    "date": 20160705,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 7/5/2016 ]"
+  },
+  {
+    "business_id": 82930,
+    "date": 20160705,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 7/1/2016 ]"
+  },
+  {
+    "business_id": 83365,
+    "date": 20180131,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 83365,
+    "date": 20160308,
+    "description": "Permit license or inspection report not posted  [ date violation corrected: 1/31/2018 ]"
+  },
+  {
+    "business_id": 83365,
+    "date": 20160308,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 1/31/2018 ]"
+  },
+  {
+    "business_id": 83843,
+    "date": 20170816,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 6/25/2018 ]"
+  },
+  {
+    "business_id": 83843,
+    "date": 20160212,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 2/12/2016 ]"
+  },
+  {
+    "business_id": 84339,
+    "date": 20160413,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 4/13/2016 ]"
+  },
+  {
+    "business_id": 84340,
+    "date": 20171205,
+    "description": "Insufficient hot water or running water"
+  },
+  {
+    "business_id": 84715,
+    "date": 20161116,
+    "description": "Improper or defective plumbing  [ date violation corrected: 1/24/2018 ]"
+  },
+  {
+    "business_id": 84715,
+    "date": 20161116,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 11/16/2016 ]"
+  },
+  {
+    "business_id": 84716,
+    "date": 20180516,
+    "description": "Unclean or unsanitary food contact surfaces"
+  },
+  {
+    "business_id": 84716,
+    "date": 20161216,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 84716,
+    "date": 20151118,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 12/16/2016 ]"
+  },
+  {
+    "business_id": 84716,
+    "date": 20151118,
+    "description": "Improper or defective plumbing  [ date violation corrected: 12/16/2016 ]"
+  },
+  {
+    "business_id": 84811,
+    "date": 20161008,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 84811,
+    "date": 20161008,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 84811,
+    "date": 20151017,
+    "description": "Noncompliance with shell fish tags or display  [ date violation corrected: 10/17/2015 ]"
+  },
+  {
+    "business_id": 84811,
+    "date": 20151017,
+    "description": "Inadequate procedures or records for time as a public health control   [ date violation corrected: 10/17/2015 ]"
+  },
+  {
+    "business_id": 85051,
+    "date": 20161227,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/17/2018 ]"
+  },
+  {
+    "business_id": 85051,
+    "date": 20161227,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 1/17/2018 ]"
+  },
+  {
+    "business_id": 85051,
+    "date": 20161227,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 1/17/2018 ]"
+  },
+  {
+    "business_id": 85091,
+    "date": 20171115,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 85091,
+    "date": 20160802,
+    "description": "Unclean or unsanitary food contact surfaces  [ date violation corrected: 8/12/2016 ]"
+  },
+  {
+    "business_id": 85091,
+    "date": 20160802,
+    "description": "Improper food storage  [ date violation corrected: 8/12/2016 ]"
+  },
+  {
+    "business_id": 85091,
+    "date": 20160802,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 8/12/2016 ]"
+  },
+  {
+    "business_id": 85091,
+    "date": 20160802,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/12/2016 ]"
+  },
+  {
+    "business_id": 85680,
+    "date": 20170601,
+    "description": "Contaminated or adulterated food  [ date violation corrected: 6/1/2017 ]"
+  },
+  {
+    "business_id": 85945,
+    "date": 20170920,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 85945,
+    "date": 20170920,
+    "description": "Improper cooling methods  [ date violation corrected: 9/28/2017 ]"
+  },
+  {
+    "business_id": 86354,
+    "date": 20180504,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 86354,
+    "date": 20170823,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 5/4/2018 ]"
+  },
+  {
+    "business_id": 86354,
+    "date": 20170823,
+    "description": "Inadequate dressing rooms or improper storage of personal items  [ date violation corrected: 5/4/2018 ]"
+  },
+  {
+    "business_id": 86780,
+    "date": 20171102,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 11/2/2017 ]"
+  },
+  {
+    "business_id": 86780,
+    "date": 20171102,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 11/2/2017 ]"
+  },
+  {
+    "business_id": 86780,
+    "date": 20171102,
+    "description": "No thermometers or uncalibrated thermometers"
+  },
+  {
+    "business_id": 86780,
+    "date": 20170327,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 11/2/2017 ]"
+  },
+  {
+    "business_id": 86781,
+    "date": 20180228,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 3/9/2018 ]"
+  },
+  {
+    "business_id": 86781,
+    "date": 20180228,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 86781,
+    "date": 20180228,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 86781,
+    "date": 20170316,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 3/16/2017 ]"
+  },
+  {
+    "business_id": 86925,
+    "date": 20170920,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 10/17/2017 ]"
+  },
+  {
+    "business_id": 87469,
+    "date": 20160606,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 6/6/2016 ]"
+  },
+  {
+    "business_id": 87793,
+    "date": 20180105,
+    "description": "Improper cooling methods  [ date violation corrected: 1/5/2018 ]"
+  },
+  {
+    "business_id": 88498,
+    "date": 20180507,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 88499,
+    "date": 20180503,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 88499,
+    "date": 20180503,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 88499,
+    "date": 20170608,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 5/3/2018 ]"
+  },
+  {
+    "business_id": 88505,
+    "date": 20180705,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 88505,
+    "date": 20180705,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 7/5/2018 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20180305,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 3/5/2018 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20180305,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 88508,
+    "date": 20170314,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 3/5/2018 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20170314,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 3/5/2018 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20170314,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 3/5/2018 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20161220,
+    "description": "Unauthorized or unsafe use of time as a public health control measure  [ date violation corrected: 12/20/2016 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20161220,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 12/30/2016 ]"
+  },
+  {
+    "business_id": 88508,
+    "date": 20161220,
+    "description": "Low risk vermin infestation  [ date violation corrected: 12/30/2016 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20180620,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "Inadequate sewage or wastewater disposal  [ date violation corrected: 5/30/2017 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "Inadequate food safety knowledge or lack of certified food safety manager  [ date violation corrected: 5/30/2017 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 6/20/2018 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "No hot water or running water  [ date violation corrected: 5/30/2017 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 6/20/2018 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 5/30/2017 ]"
+  },
+  {
+    "business_id": 88524,
+    "date": 20170530,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 5/30/2017 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20180808,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 88525,
+    "date": 20180808,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 88525,
+    "date": 20180808,
+    "description": "Inadequate or unsanitary refuse containers or area or no garbage service"
+  },
+  {
+    "business_id": 88525,
+    "date": 20180808,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 88525,
+    "date": 20180227,
+    "description": "Low risk vermin infestation  [ date violation corrected: 8/8/2018 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20180227,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 8/8/2018 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20170808,
+    "description": "Low risk vermin infestation  [ date violation corrected: 2/27/2018 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20170808,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 2/27/2018 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20170808,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 2/27/2018 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20160801,
+    "description": "Unclean or degraded floors walls or ceilings  [ date violation corrected: 8/8/2017 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20160801,
+    "description": "Unclean nonfood contact surfaces  [ date violation corrected: 8/8/2017 ]"
+  },
+  {
+    "business_id": 88525,
+    "date": 20160801,
+    "description": "Improper or defective plumbing  [ date violation corrected: 8/8/2017 ]"
+  },
+  {
+    "business_id": 88568,
+    "date": 20180201,
+    "description": "Improper food storage"
+  },
+  {
+    "business_id": 88568,
+    "date": 20180201,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 88568,
+    "date": 20180201,
+    "description": "Inadequate ventilation or lighting"
+  },
+  {
+    "business_id": 88723,
+    "date": 20180129,
+    "description": "Low risk vermin infestation"
+  },
+  {
+    "business_id": 88723,
+    "date": 20180129,
+    "description": "Improper reheating of food"
+  },
+  {
+    "business_id": 88723,
+    "date": 20180129,
+    "description": "High risk food holding temperature"
+  },
+  {
+    "business_id": 88723,
+    "date": 20170627,
+    "description": "Other moderate risk violation  [ date violation corrected: 1/29/2018 ]"
+  },
+  {
+    "business_id": 88723,
+    "date": 20170627,
+    "description": "Improper or defective plumbing  [ date violation corrected: 1/29/2018 ]"
+  },
+  {
+    "business_id": 88723,
+    "date": 20170627,
+    "description": "Improper reheating of food  [ date violation corrected: 6/27/2017 ]"
+  },
+  {
+    "business_id": 88723,
+    "date": 20170627,
+    "description": "High risk food holding temperature   [ date violation corrected: 6/27/2017 ]"
+  },
+  {
+    "business_id": 88792,
+    "date": 20180709,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 88792,
+    "date": 20180709,
+    "description": "Employee eating or smoking"
+  },
+  {
+    "business_id": 88792,
+    "date": 20171018,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 7/9/2018 ]"
+  },
+  {
+    "business_id": 88792,
+    "date": 20160901,
+    "description": "Employee eating or smoking  [ date violation corrected: 10/18/2017 ]"
+  },
+  {
+    "business_id": 89569,
+    "date": 20180220,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 3/15/2018 ]"
+  },
+  {
+    "business_id": 89569,
+    "date": 20180220,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 3/15/2018 ]"
+  },
+  {
+    "business_id": 89569,
+    "date": 20180220,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 3/15/2018 ]"
+  },
+  {
+    "business_id": 89569,
+    "date": 20170223,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 2/20/2018 ]"
+  },
+  {
+    "business_id": 89633,
+    "date": 20180712,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 89633,
+    "date": 20180712,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 90001,
+    "date": 20171018,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 90001,
+    "date": 20170317,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 10/18/2017 ]"
+  },
+  {
+    "business_id": 90281,
+    "date": 20170206,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 3/6/2018 ]"
+  },
+  {
+    "business_id": 90281,
+    "date": 20170206,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 3/6/2018 ]"
+  },
+  {
+    "business_id": 90281,
+    "date": 20170206,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 3/6/2018 ]"
+  },
+  {
+    "business_id": 90378,
+    "date": 20171127,
+    "description": "Improper or defective plumbing  [ date violation corrected: 11/30/2017 ]"
+  },
+  {
+    "business_id": 90378,
+    "date": 20171127,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 11/30/2017 ]"
+  },
+  {
+    "business_id": 90378,
+    "date": 20171127,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 90409,
+    "date": 20170927,
+    "description": "Improper food storage"
+  },
+  {
+    "business_id": 90409,
+    "date": 20170927,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/27/2017 ]"
+  },
+  {
+    "business_id": 90409,
+    "date": 20170927,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 9/27/2017 ]"
+  },
+  {
+    "business_id": 90409,
+    "date": 20170203,
+    "description": "Unapproved or unmaintained equipment or utensils  [ date violation corrected: 9/27/2017 ]"
+  },
+  {
+    "business_id": 90409,
+    "date": 20170203,
+    "description": "Inadequate warewashing facilities or equipment  [ date violation corrected: 2/3/2017 ]"
+  },
+  {
+    "business_id": 90409,
+    "date": 20170203,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 2/3/2017 ]"
+  },
+  {
+    "business_id": 90427,
+    "date": 20180509,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 90427,
+    "date": 20180509,
+    "description": "High risk food holding temperature"
+  },
+  {
+    "business_id": 90427,
+    "date": 20180509,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 90427,
+    "date": 20170420,
+    "description": "Moderate risk food holding temperature   [ date violation corrected: 5/9/2018 ]"
+  },
+  {
+    "business_id": 90427,
+    "date": 20170420,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 5/9/2018 ]"
+  },
+  {
+    "business_id": 90428,
+    "date": 20170217,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 90428,
+    "date": 20170217,
+    "description": "Insufficient hot water or running water"
+  },
+  {
+    "business_id": 90428,
+    "date": 20170217,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 90428,
+    "date": 20170217,
+    "description": "Unapproved or unmaintained equipment or utensils"
+  },
+  {
+    "business_id": 90428,
+    "date": 20170217,
+    "description": "No thermometers or uncalibrated thermometers"
+  },
+  {
+    "business_id": 90893,
+    "date": 20180524,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 90893,
+    "date": 20180524,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 90989,
+    "date": 20170424,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 90991,
+    "date": 20170919,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/19/2017 ]"
+  },
+  {
+    "business_id": 91189,
+    "date": 20180515,
+    "description": "Unclean unmaintained or improperly constructed toilet facilities  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 91189,
+    "date": 20180515,
+    "description": "Insufficient hot water or running water  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 91189,
+    "date": 20180515,
+    "description": "Low risk vermin infestation  [ date violation corrected: 5/16/2018 ]"
+  },
+  {
+    "business_id": 91189,
+    "date": 20170608,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 5/15/2018 ]"
+  },
+  {
+    "business_id": 91817,
+    "date": 20170828,
+    "description": "Unclean hands or improper use of gloves  [ date violation corrected: 8/28/2017 ]"
+  },
+  {
+    "business_id": 92075,
+    "date": 20180420,
+    "description": "Moderate risk vermin infestation"
+  },
+  {
+    "business_id": 92075,
+    "date": 20170918,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 92075,
+    "date": 20170918,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 9/18/2017 ]"
+  },
+  {
+    "business_id": 93072,
+    "date": 20180109,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer  [ date violation corrected: 1/16/2018 ]"
+  },
+  {
+    "business_id": 93072,
+    "date": 20180109,
+    "description": "Food safety certificate or food handler card not available  [ date violation corrected: 1/16/2018 ]"
+  },
+  {
+    "business_id": 93072,
+    "date": 20180109,
+    "description": "Moderate risk vermin infestation  [ date violation corrected: 1/16/2018 ]"
+  },
+  {
+    "business_id": 93072,
+    "date": 20180109,
+    "description": "Inadequate and inaccessible handwashing facilities  [ date violation corrected: 1/16/2018 ]"
+  },
+  {
+    "business_id": 93240,
+    "date": 20180119,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 93240,
+    "date": 20180119,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 93422,
+    "date": 20180122,
+    "description": "Improper reheating of food  [ date violation corrected: 1/22/2018 ]"
+  },
+  {
+    "business_id": 93431,
+    "date": 20171211,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 93431,
+    "date": 20171211,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 93431,
+    "date": 20171211,
+    "description": "High risk food holding temperature   [ date violation corrected: 12/13/2017 ]"
+  },
+  {
+    "business_id": 93489,
+    "date": 20180131,
+    "description": "Inadequate and inaccessible handwashing facilities"
+  },
+  {
+    "business_id": 93489,
+    "date": 20180131,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 93489,
+    "date": 20180131,
+    "description": "Food safety certificate or food handler card not available"
+  },
+  {
+    "business_id": 93489,
+    "date": 20180131,
+    "description": "Inadequately cleaned or sanitized food contact surfaces"
+  },
+  {
+    "business_id": 94334,
+    "date": 20180319,
+    "description": "Improper storage of equipment utensils or linens  [ date violation corrected: 3/19/2018 ]"
+  },
+  {
+    "business_id": 94334,
+    "date": 20180319,
+    "description": "Unclean nonfood contact surfaces"
+  },
+  {
+    "business_id": 94334,
+    "date": 20180319,
+    "description": "Improper or defective plumbing"
+  },
+  {
+    "business_id": 94334,
+    "date": 20180319,
+    "description": "Inadequately cleaned or sanitized food contact surfaces  [ date violation corrected: 3/19/2018 ]"
+  },
+  {
+    "business_id": 94334,
+    "date": 20180319,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 95496,
+    "date": 20180510,
+    "description": "Unclean or degraded floors walls or ceilings"
+  },
+  {
+    "business_id": 95496,
+    "date": 20180510,
+    "description": "Inadequate warewashing facilities or equipment"
+  },
+  {
+    "business_id": 95496,
+    "date": 20180510,
+    "description": "Improper storage of equipment utensils or linens"
+  },
+  {
+    "business_id": 95496,
+    "date": 20180510,
+    "description": "Wiping cloths not clean or properly stored or inadequate sanitizer"
+  },
+  {
+    "business_id": 95853,
+    "date": 20180615,
+    "description": "Moderate risk food holding temperature"
+  },
+  {
+    "business_id": 95853,
+    "date": 20180615,
+    "description": "Inadequate warewashing facilities or equipment"
+  }
+]
