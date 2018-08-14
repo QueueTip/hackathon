@@ -75,6 +75,7 @@ export class HomePage {
                 minScore: locInspections.length > 0 ? _.minBy(locInspections, i => i.score).score : -1,
                 maxScore: locInspections.length > 0 ? _.maxBy(locInspections, i => i.score).score : -1,
                 avgScore: locInspections.length > 0 ? Math.floor(_.meanBy(locInspections, i => i.score) * 10) / 10 : -1,
+                updated: locInspections.length > 0 ? _.reduce(locInspections, (a,b) => a.date > b.date ? a : b).date : "",
                 parCustomer: isParCustomer(name)
             } as Company;
         };

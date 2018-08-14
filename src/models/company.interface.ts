@@ -10,5 +10,5 @@ export interface Company {
     maxScore: number;
     avgScore: number;
 
-    updated?: Date;
+    updated?: string;
 }

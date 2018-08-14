@@ -39,7 +39,7 @@
                                 <ion-col col-9 class="violationsCol">Violations</ion-col>
                             </ion-row>
                             <ion-row *ngFor="let inspection of location.inspections" class="inspectionRow">
-                                <ion-col col-1 class="dateCol">{{inspection.date}}</ion-col>
+                                <ion-col col-1 class="dateCol">{{inspection.date.toString() | dateConvert}}</ion-col>
                                 <ion-col col-1 class="inspectionScoreCol {{getScoreClass(inspection.score)}}">{{inspection.score}}</ion-col>
                                 <ion-col col-1 class="typeCol">{{inspection.type}}</ion-col>
                                 <ion-col col-9 class="violationsCol">

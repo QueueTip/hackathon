@@ -8,12 +8,14 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import {HttpModule} from "@angular/http";
 import {DetailsPage} from "../pages/details/details";
+import {DateConvertPipe} from "../components/date-convert.pipe";
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
-      DetailsPage
+      DetailsPage,
+      DateConvertPipe
   ],
   imports: [
       HttpModule,

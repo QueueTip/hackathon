@@ -35,9 +35,9 @@
             </ion-col>
         </ion-row>
     </ion-grid>
-    <ion-grid>
+    <ion-grid style="max-width: 1200px">
         <ion-row>
-            <ion-col *ngFor="let company of filteredCompanies" justify-content-start class="cardColumn">
+            <ion-col class="cardColumn" *ngFor="let company of filteredCompanies" >
                 <ion-card class="companyCard" (click)="goToCompanyDetails(company)">
                     <ion-row justify-content-center align-items-center style="height: 100px">
                         <ion-col col-9>
@@ -67,7 +67,7 @@
                     <ion-row style="height: 30px">
                         <ion-col col-12>
                             <ion-note>
-                                Updated: 08/14/2018
+                                Updated: {{company.updated.toString() | dateConvert}}
                             </ion-note>
                         </ion-col>
                     </ion-row>
