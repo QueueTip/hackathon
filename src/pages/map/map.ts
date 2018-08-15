@@ -63,7 +63,7 @@ export class MapPage {
             if (loc.latitude && loc.longitude) {
                 let score = loc.inspections.length > 0 ? Math.floor(_.meanBy(loc.inspections, i => i.score) * 10) / 10 : -1;
                 await this.addMarker({lat: loc.latitude, lng: loc.longitude}, score);
-                await delay(250);
+                await delay(150);
             }
         }
 
@@ -75,13 +75,19 @@ export class MapPage {
         let marker = new google.maps.Marker({
             map: this.map,
             animation: google.maps.Animation.DROP,
-            position: coords
+            position: coords,
+            label: score === -1 ? undefined : {
+                text: score.toString(),
+                color: 'black',
+                fontSize: "14px",
+                fontWeight: "bold"
+            }
         });
         let iconOptions = {
             path: google.maps.SymbolPath.CIRCLE,
-            scale: 10,
+            scale: 20,
             strokeColor: 'black',
-            strokeOpacity: 0.6,
+            strokeOpacity: 1,
             strokeWeight: 1.0,
             fillColor: this.getScoreColor(score),
             fillOpacity: 1
@@ -112,7 +118,7 @@ export class MapPage {
         86,90,"Adequate"
         91,100,"Good"*/
         if (score > 90) return "#00CC00";
-        if (score > 85) return "#DDDD0";
+        if (score > 85) return "#DDDD00";
         if (score > 70) return "#FFAA00";
         if (score === -1) return "#888888";
         return "#FF4444";
