@@ -39,3 +39,11 @@
 ion-content {
   min-width: 600px;
 }
+
+ion-modal.mapModal div.modal-wrapper {
+  left: 15% !important;
+  top: 10% !important;
+  position: absolute !important;
+  width: 70% !important;
+  height: 80% !important;
+}

@@ -42,7 +42,8 @@ export class DetailsPage {
     async loadMap() {
         let modal = this.modalCtrl.create(MapPage, {
             company: this.company
-        });
+        },
+        {cssClass: "mapModal"});
 
         await modal.present();
     }
