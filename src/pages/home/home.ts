@@ -69,6 +69,7 @@ export class HomePage {
         const buildCompany = (locArray, name) => {
             let inspectionArrays: Array<Inspection[]> = _.map(locArray, b => b.inspections);
             let locInspections: Inspection[] = _.flatten(inspectionArrays);
+            let min = _.minBy(locInspections, i => i.score);
             return {
                 name: name,
                 locations: locArray,
@@ -89,6 +90,7 @@ export class HomePage {
         this.companies = this.companies.concat(_.chain(this.locations)
             .groupBy(loc => loc.name)
             .map(buildCompany)
+            .sortBy(company => company.name)
             .value());
         console.log(this.companies);
     }

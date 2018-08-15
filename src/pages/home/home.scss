@@ -1,6 +1,10 @@
 page-home {
-  .cardColumn {
+  .optionsGrid{
+    max-width: 600px;
+  }
 
+  .companyGrid {
+    max-width: 1200px;
   }
 
   .companyLabel {
@@ -16,14 +20,23 @@ page-home {
   }
 
   .score {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: bold;
+    vertical-align: bottom;
+    line-height: 30px;
+  }
+
+  .avgScore {
+    font-size: 2.2em;
   }
 
   .companyCard {
     min-width: 300px;
     max-width: 300px;
-    padding-left: 5px;
+    box-shadow: 0 1px 2px 2px #CCCCCC;
+  }
+  .companyCard ion-row {
+    padding: 5px;
   }
 
   .companyCard:hover {
@@ -35,5 +48,11 @@ page-home {
     height: 50px;
     width: 50px;
     float: right;
+    margin-top: 10px;
+  }
+
+  .infoRow {
+    border-top: 1px solid #DDDDDD;
+    margin-top: 20px;
   }
 }

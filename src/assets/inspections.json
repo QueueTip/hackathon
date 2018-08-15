@@ -1,5 +1,6245 @@
 [
   {
+    "business_id": 9559,
+    "date": 20150309,
+    "score": 100,
+    "type": "complaint"
+  },
+  {
+    "business_id": 5529,
+    "date": 20150326,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 3627,
+    "date": 20150421,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 3627,
+    "date": 20150421,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 3588,
+    "date": 20150414,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9964,
+    "date": 20150423,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 7576,
+    "date": 20150424,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 814,
+    "date": 20150504,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150424,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9512,
+    "date": 20150428,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10362,
+    "date": 20150506,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 5341,
+    "date": 20150507,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 1715,
+    "date": 20150507,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 6470,
+    "date": 20150520,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 9567,
+    "date": 20150519,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10602,
+    "date": 20150519,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11270,
+    "date": 20150520,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150606,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 3730,
+    "date": 20150616,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10991,
+    "date": 20150616,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12416,
+    "date": 20150623,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 3930,
+    "date": 20150626,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11893,
+    "date": 20150629,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10078,
+    "date": 20150527,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "score": 69,
+    "type": "routine"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "score": 55,
+    "type": "routine"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 9727,
+    "date": 20150713,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10920,
+    "date": 20150719,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6100,
+    "date": 20150719,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20150716,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 6765,
+    "date": 20150721,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 7547,
+    "date": 20150722,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 9614,
+    "date": 20150725,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6914,
+    "date": 20150726,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12186,
+    "date": 20150726,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12185,
+    "date": 20150726,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9652,
+    "date": 20150801,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 815,
+    "date": 20150805,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 8666,
+    "date": 20150810,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11836,
+    "date": 20150821,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10035,
+    "date": 20150829,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 9374,
+    "date": 20150827,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11209,
+    "date": 20150830,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 5069,
+    "date": 20150828,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 5965,
+    "date": 20150828,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 7619,
+    "date": 20150910,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10573,
+    "date": 20150910,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10068,
+    "date": 20150923,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 12510,
+    "date": 20150820,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12432,
+    "date": 20150506,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12406,
+    "date": 20150420,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12426,
+    "date": 20150423,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12404,
+    "date": 20150527,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 3838,
+    "date": 20151001,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12466,
+    "date": 20151002,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 8487,
+    "date": 20151002,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10041,
+    "date": 20151002,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 5386,
+    "date": 20151008,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 9926,
+    "date": 20151008,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11078,
+    "date": 20151006,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9007,
+    "date": 20151007,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 10412,
+    "date": 20151007,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 5548,
+    "date": 20151015,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8982,
+    "date": 20151026,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10610,
+    "date": 20151026,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 6674,
+    "date": 20151027,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 119,
+    "date": 20151027,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9836,
+    "date": 20151028,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9760,
+    "date": 20151106,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10923,
+    "date": 20151103,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 5165,
+    "date": 20151112,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 8756,
+    "date": 20151112,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 12543,
+    "date": 20151118,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 9534,
+    "date": 20151020,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9309,
+    "date": 20151116,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11575,
+    "date": 20151117,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 12078,
+    "date": 20151123,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12107,
+    "date": 20151124,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12326,
+    "date": 20151124,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12319,
+    "date": 20151125,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12040,
+    "date": 20151125,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 9559,
+    "date": 20151130,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11202,
+    "date": 20151130,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11695,
+    "date": 20151208,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12228,
+    "date": 20151208,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 9920,
+    "date": 20151202,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11862,
+    "date": 20151218,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12402,
+    "date": 20151216,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12432,
+    "date": 20151231,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12630,
+    "date": 20151216,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12556,
+    "date": 20160112,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12571,
+    "date": 20160113,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12645,
+    "date": 20160115,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 6080,
+    "date": 20160126,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 12671,
+    "date": 20160121,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12424,
+    "date": 20160129,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 10595,
+    "date": 20160303,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 9902,
+    "date": 20160303,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 1238,
+    "date": 20160308,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10464,
+    "date": 20160309,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 4418,
+    "date": 20160228,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 12510,
+    "date": 20160313,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 7477,
+    "date": 20160313,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10789,
+    "date": 20160315,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 12406,
+    "date": 20160326,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 9836,
+    "date": 20160326,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11554,
+    "date": 20160328,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10745,
+    "date": 20160328,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9534,
+    "date": 20160411,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12217,
+    "date": 20160427,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6955,
+    "date": 20160428,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 12242,
+    "date": 20160417,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10041,
+    "date": 20160417,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 5548,
+    "date": 20160417,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6108,
+    "date": 20160504,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 9958,
+    "date": 20160501,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 4006,
+    "date": 20160511,
+    "score": 100,
+    "type": "followup"
+  },
+  {
+    "business_id": 4972,
+    "date": 20160511,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 12690,
+    "date": 20160526,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 4209,
+    "date": 20160612,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 4863,
+    "date": 20160616,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11292,
+    "date": 20160629,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 12326,
+    "date": 20160627,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12319,
+    "date": 20160627,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 12040,
+    "date": 20160627,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 5026,
+    "date": 20160703,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6441,
+    "date": 20160703,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11695,
+    "date": 20160720,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 9613,
+    "date": 20160726,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 5148,
+    "date": 20160729,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8548,
+    "date": 20160807,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10263,
+    "date": 20160816,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10154,
+    "date": 20160816,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10624,
+    "date": 20160703,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 12566,
+    "date": 20160914,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12817,
+    "date": 20160914,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12762,
+    "date": 20160922,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 180,
+    "date": 20161214,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 6765,
+    "date": 20161216,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12873,
+    "date": 20161121,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 13066,
+    "date": 20170211,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12631,
+    "date": 20161227,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 8386,
+    "date": 20151111,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 4219,
+    "date": 20151112,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11575,
+    "date": 20151124,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 1069,
+    "date": 20151125,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151130,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151209,
+    "score": 97,
+    "type": "complaint"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20151209,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 12440,
+    "date": 20151223,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 4219,
+    "date": 20151231,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 10129,
+    "date": 20160120,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10608,
+    "date": 20160120,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6517,
+    "date": 20160204,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "score": 73,
+    "type": "routine"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10930,
+    "date": 20160426,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9964,
+    "date": 20160428,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 9482,
+    "date": 20160501,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9926,
+    "date": 20160531,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 5386,
+    "date": 20160531,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 6517,
+    "date": 20160607,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160706,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 8517,
+    "date": 20160720,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12440,
+    "date": 20160720,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10438,
+    "date": 20160721,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10247,
+    "date": 20160727,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 11575,
+    "date": 20160818,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 7236,
+    "date": 20160819,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160919,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160920,
+    "score": 99,
+    "type": "initial"
+  },
+  {
+    "business_id": 6517,
+    "date": 20161010,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9007,
+    "date": 20161019,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10412,
+    "date": 20161019,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 10608,
+    "date": 20161026,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 7576,
+    "date": 20161027,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9964,
+    "date": 20161027,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9926,
+    "date": 20161111,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 5386,
+    "date": 20161111,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9482,
+    "date": 20161111,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12698,
+    "date": 20161130,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12642,
+    "date": 20161207,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 12440,
+    "date": 20170131,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 6517,
+    "date": 20170206,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8517,
+    "date": 20170206,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 11575,
+    "date": 20170214,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "score": 72,
+    "type": "routine"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160112,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 180,
+    "date": 20160112,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 8885,
+    "date": 20160113,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6751,
+    "date": 20160113,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160119,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 11729,
+    "date": 20160118,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6747,
+    "date": 20160121,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10411,
+    "date": 20160125,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10607,
+    "date": 20160126,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10576,
+    "date": 20160126,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10491,
+    "date": 20160126,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160208,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 5069,
+    "date": 20160224,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11117,
+    "date": 20160224,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 9374,
+    "date": 20160229,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160518,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11198,
+    "date": 20160624,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 5965,
+    "date": 20160719,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 5069,
+    "date": 20160726,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160726,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9354,
+    "date": 20160727,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 10078,
+    "date": 20160727,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 11540,
+    "date": 20160728,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20160805,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 9559,
+    "date": 20160902,
+    "score": 94,
+    "type": "complaint"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 744,
+    "date": 20160930,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10380,
+    "date": 20161012,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 11202,
+    "date": 20161026,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 7547,
+    "date": 20161027,
+    "score": 97,
+    "type": "complaint"
+  },
+  {
+    "business_id": 12013,
+    "date": 20161031,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 8461,
+    "date": 20170220,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 6909,
+    "date": 20170220,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 7608,
+    "date": 20170221,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 609,
+    "date": 20170222,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 4006,
+    "date": 20170222,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 4006,
+    "date": 20170222,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 9204,
+    "date": 20170224,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 11121,
+    "date": 20170228,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 277,
+    "date": 20170301,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 11696,
+    "date": 20151111,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8461,
+    "date": 20151118,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 6909,
+    "date": 20151120,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 3981,
+    "date": 20151120,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7608,
+    "date": 20151120,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 11121,
+    "date": 20151120,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 277,
+    "date": 20151125,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 4006,
+    "date": 20151215,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11893,
+    "date": 20151230,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10861,
+    "date": 20160120,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 7131,
+    "date": 20160120,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 9899,
+    "date": 20160121,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12186,
+    "date": 20160203,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12185,
+    "date": 20160203,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 8427,
+    "date": 20160204,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 4224,
+    "date": 20160204,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20160216,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 10123,
+    "date": 20160425,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10923,
+    "date": 20160519,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11553,
+    "date": 20160520,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 12231,
+    "date": 20160524,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20160607,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10409,
+    "date": 20160622,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 12645,
+    "date": 20160706,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 12107,
+    "date": 20160728,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12078,
+    "date": 20160728,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 12543,
+    "date": 20160728,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 12642,
+    "date": 20160805,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160808,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160808,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10123,
+    "date": 20160815,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 9727,
+    "date": 20160816,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 10008,
+    "date": 20160816,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 9723,
+    "date": 20160818,
+    "score": 59,
+    "type": "routine"
+  },
+  {
+    "business_id": 12424,
+    "date": 20160902,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12671,
+    "date": 20160906,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11833,
+    "date": 20160908,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10520,
+    "date": 20160914,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20161117,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 12510,
+    "date": 20161123,
+    "score": 89,
+    "type": "followup"
+  },
+  {
+    "business_id": 7477,
+    "date": 20161121,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 12510,
+    "date": 20161121,
+    "score": 73,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20161205,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 4209,
+    "date": 20161214,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20161216,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 6108,
+    "date": 20161229,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 8238,
+    "date": 20161227,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 3967,
+    "date": 20161223,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 10737,
+    "date": 20161220,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20161220,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 5385,
+    "date": 20170117,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10624,
+    "date": 20170201,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11320,
+    "date": 20170215,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 5026,
+    "date": 20170223,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6441,
+    "date": 20170224,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 2728,
+    "date": 20151102,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 11138,
+    "date": 20151102,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 12217,
+    "date": 20151109,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10737,
+    "date": 20151111,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10624,
+    "date": 20151112,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6441,
+    "date": 20151112,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6439,
+    "date": 20151112,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10828,
+    "date": 20151112,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 7443,
+    "date": 20151116,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 8673,
+    "date": 20151116,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9221,
+    "date": 20151120,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11654,
+    "date": 20151120,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8055,
+    "date": 20151120,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 5026,
+    "date": 20151120,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7134,
+    "date": 20151123,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 10086,
+    "date": 20151124,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11342,
+    "date": 20151125,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8775,
+    "date": 20151125,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11665,
+    "date": 20151221,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12455,
+    "date": 20151222,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 8907,
+    "date": 20151223,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10991,
+    "date": 20151230,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 3730,
+    "date": 20151230,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12045,
+    "date": 20160119,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11161,
+    "date": 20160119,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 9204,
+    "date": 20160119,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11359,
+    "date": 20160110,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 10106,
+    "date": 20160110,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 609,
+    "date": 20160126,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20160202,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 6648,
+    "date": 20160205,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 19,
+    "date": 20160205,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 10081,
+    "date": 20160208,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 4006,
+    "date": 20160210,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 6158,
+    "date": 20160210,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 8848,
+    "date": 20160212,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 10631,
+    "date": 20160308,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10035,
+    "date": 20160311,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 3303,
+    "date": 20160311,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 10502,
+    "date": 20160314,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12589,
+    "date": 20160321,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 10081,
+    "date": 20160616,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20160616,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20160705,
+    "score": 90,
+    "type": "followup"
+  },
+  {
+    "business_id": 9179,
+    "date": 20160713,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8461,
+    "date": 20160713,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 3981,
+    "date": 20160721,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 6909,
+    "date": 20160721,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7608,
+    "date": 20160721,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 9760,
+    "date": 20160726,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11121,
+    "date": 20160727,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 277,
+    "date": 20160811,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 12402,
+    "date": 20160811,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11893,
+    "date": 20160812,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11225,
+    "date": 20160812,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 609,
+    "date": 20160819,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9204,
+    "date": 20160823,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11161,
+    "date": 20160823,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10573,
+    "date": 20160829,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7619,
+    "date": 20160829,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 12172,
+    "date": 20160829,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10263,
+    "date": 20160831,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10081,
+    "date": 20161004,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12228,
+    "date": 20161025,
+    "score": 69,
+    "type": "routine"
+  },
+  {
+    "business_id": 9802,
+    "date": 20161026,
+    "score": 71,
+    "type": "routine"
+  },
+  {
+    "business_id": 12228,
+    "date": 20161027,
+    "score": 78,
+    "type": "followup"
+  },
+  {
+    "business_id": 5209,
+    "date": 20161031,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10944,
+    "date": 20161031,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10409,
+    "date": 20161114,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 8654,
+    "date": 20161122,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11270,
+    "date": 20161129,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10602,
+    "date": 20161130,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9567,
+    "date": 20161130,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20161214,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20161214,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10123,
+    "date": 20161219,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10081,
+    "date": 20170202,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 12682,
+    "date": 20170224,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10920,
+    "date": 20160823,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 9920,
+    "date": 20161031,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 10411,
+    "date": 20161103,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 10828,
+    "date": 20161107,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 9441,
+    "date": 20161110,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9683,
+    "date": 20170223,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10035,
+    "date": 20170224,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 3303,
+    "date": 20170227,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 8666,
+    "date": 20170228,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10411,
+    "date": 20170215,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 8982,
+    "date": 20160818,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 8427,
+    "date": 20160928,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 3588,
+    "date": 20160928,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20161005,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 6603,
+    "date": 20161019,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6914,
+    "date": 20161019,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 12186,
+    "date": 20170130,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11836,
+    "date": 20170227,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 6756,
+    "date": 20170228,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 8907,
+    "date": 20161022,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11853,
+    "date": 20161022,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9576,
+    "date": 20161031,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10082,
+    "date": 20161031,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 8642,
+    "date": 20161129,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12185,
+    "date": 20170129,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 11117,
+    "date": 20170203,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 12690,
+    "date": 20170204,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 9374,
+    "date": 20170217,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 9836,
+    "date": 20170217,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8756,
+    "date": 20170217,
+    "score": 73,
+    "type": "routine"
+  },
+  {
+    "business_id": 10175,
+    "date": 20160820,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11968,
+    "date": 20160818,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9534,
+    "date": 20161013,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10086,
+    "date": 20161022,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 6080,
+    "date": 20161025,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7131,
+    "date": 20161203,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 8885,
+    "date": 20161209,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 6751,
+    "date": 20161209,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10607,
+    "date": 20161209,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 8461,
+    "date": 20150317,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 10631,
+    "date": 20150317,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6909,
+    "date": 20150325,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 3981,
+    "date": 20150421,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11696,
+    "date": 20150423,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 9179,
+    "date": 20150423,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 277,
+    "date": 20150424,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11121,
+    "date": 20150424,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20150818,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10930,
+    "date": 20151023,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9482,
+    "date": 20151023,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 12543,
+    "date": 20151118,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 9613,
+    "date": 20160127,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 8654,
+    "date": 20150804,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12549,
+    "date": 20150910,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 6517,
+    "date": 20151013,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 8277,
+    "date": 20151027,
+    "score": 74,
+    "type": "routine"
+  },
+  {
+    "business_id": 11569,
+    "date": 20151027,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 8541,
+    "date": 20151111,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 35,
+    "date": 20151112,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 11538,
+    "date": 20151113,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10288,
+    "date": 20151117,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12211,
+    "date": 20151228,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 12160,
+    "date": 20151228,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11897,
+    "date": 20151228,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11694,
+    "date": 20151228,
+    "score": 67,
+    "type": "routine"
+  },
+  {
+    "business_id": 1715,
+    "date": 20151228,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 8212,
+    "date": 20160113,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10828,
+    "date": 20160113,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 5385,
+    "date": 20160326,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8238,
+    "date": 20160326,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 3967,
+    "date": 20160326,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 2050,
+    "date": 20150407,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10432,
+    "date": 20150423,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 1290,
+    "date": 20150429,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 119,
+    "date": 20150504,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 4972,
+    "date": 20151015,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11698,
+    "date": 20151019,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 6294,
+    "date": 20151020,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 2050,
+    "date": 20151117,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10432,
+    "date": 20151119,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 11149,
+    "date": 20151124,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 8782,
+    "date": 20151204,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 10520,
+    "date": 20151222,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8292,
+    "date": 20151223,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10008,
+    "date": 20151224,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 4863,
+    "date": 20151228,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 3930,
+    "date": 20151230,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10217,
+    "date": 20160104,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10174,
+    "date": 20160113,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 10630,
+    "date": 20160114,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 11254,
+    "date": 20160129,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20160211,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 11254,
+    "date": 20160308,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 11352,
+    "date": 20160329,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10217,
+    "date": 20160425,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 4219,
+    "date": 20160705,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11254,
+    "date": 20160705,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 1069,
+    "date": 20160726,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 6897,
+    "date": 20160729,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 11995,
+    "date": 20160801,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10630,
+    "date": 20160810,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10174,
+    "date": 20160811,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12416,
+    "date": 20160822,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10060,
+    "date": 20161018,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 6872,
+    "date": 20161018,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 4224,
+    "date": 20161024,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 8292,
+    "date": 20161025,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 10217,
+    "date": 20161201,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 10464,
+    "date": 20161201,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11352,
+    "date": 20161221,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 1238,
+    "date": 20161221,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 119,
+    "date": 20170210,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 674,
+    "date": 20170210,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 11361,
+    "date": 20170210,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10398,
+    "date": 20150310,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 9482,
+    "date": 20150312,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 9333,
+    "date": 20150327,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10930,
+    "date": 20150416,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10247,
+    "date": 20150416,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 4863,
+    "date": 20150421,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 12025,
+    "date": 20150506,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10083,
+    "date": 20150519,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6517,
+    "date": 20150616,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 12440,
+    "date": 20150623,
+    "score": 97,
+    "type": "initial"
+  },
+  {
+    "business_id": 10398,
+    "date": 20150714,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 10398,
+    "date": 20150928,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11995,
+    "date": 20151023,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10632,
+    "date": 20151119,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 8221,
+    "date": 20151123,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6644,
+    "date": 20151123,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10864,
+    "date": 20151124,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10712,
+    "date": 20151125,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 5529,
+    "date": 20151130,
+    "score": 76,
+    "type": "routine"
+  },
+  {
+    "business_id": 12160,
+    "date": 20160610,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11897,
+    "date": 20160620,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12466,
+    "date": 20160620,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 11694,
+    "date": 20160622,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 10745,
+    "date": 20160627,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 12466,
+    "date": 20160629,
+    "score": 100,
+    "type": "followup"
+  },
+  {
+    "business_id": 12406,
+    "date": 20160630,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11652,
+    "date": 20160712,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10993,
+    "date": 20160713,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11698,
+    "date": 20160728,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 1290,
+    "date": 20160801,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10438,
+    "date": 20150310,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 9278,
+    "date": 20150310,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11078,
+    "date": 20150312,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10085,
+    "date": 20150312,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8292,
+    "date": 20150320,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 5529,
+    "date": 20150326,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 11665,
+    "date": 20150403,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 4183,
+    "date": 20150420,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11394,
+    "date": 20150420,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10550,
+    "date": 20150421,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 8585,
+    "date": 20150423,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150505,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 12013,
+    "date": 20150514,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 744,
+    "date": 20150529,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 12549,
+    "date": 20150910,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 1000,
+    "date": 20151008,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 12242,
+    "date": 20151008,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11044,
+    "date": 20151117,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8277,
+    "date": 20160604,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11044,
+    "date": 20160604,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11569,
+    "date": 20160604,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 8541,
+    "date": 20160604,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6000,
+    "date": 20160604,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11149,
+    "date": 20160611,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 3930,
+    "date": 20160611,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 4183,
+    "date": 20160611,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8221,
+    "date": 20160720,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10632,
+    "date": 20160723,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10929,
+    "date": 20160723,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 9801,
+    "date": 20160723,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6644,
+    "date": 20160723,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 10864,
+    "date": 20160723,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8983,
+    "date": 20160726,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9325,
+    "date": 20160728,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 8487,
+    "date": 20160813,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 1000,
+    "date": 20160813,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6100,
+    "date": 20160820,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 3838,
+    "date": 20160820,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 8603,
+    "date": 20160820,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 11823,
+    "date": 20160820,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 815,
+    "date": 20160929,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 3730,
+    "date": 20161029,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10991,
+    "date": 20161029,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7134,
+    "date": 20161029,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 11665,
+    "date": 20161029,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 6439,
+    "date": 20161031,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 6747,
+    "date": 20161114,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 5588,
+    "date": 20161114,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 12045,
+    "date": 20161115,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8212,
+    "date": 20161115,
+    "score": 99,
+    "type": "routine"
+  },
+  {
+    "business_id": 8365,
+    "date": 20161116,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6470,
+    "date": 20161129,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 8848,
+    "date": 20161203,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6648,
+    "date": 20161203,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 8654,
+    "date": 20161203,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10335,
+    "date": 20170114,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11209,
+    "date": 20170204,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 12242,
+    "date": 20170204,
+    "score": 98,
+    "type": "routine"
+  },
+  {
+    "business_id": 10041,
+    "date": 20170204,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 12589,
+    "date": 20170220,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 4822,
+    "date": 20150522,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10630,
+    "date": 20151026,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12642,
+    "date": 20160426,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12682,
+    "date": 20160429,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12078,
+    "date": 20150309,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 9920,
+    "date": 20150310,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11554,
+    "date": 20150312,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 11695,
+    "date": 20150318,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10736,
+    "date": 20150318,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10789,
+    "date": 20150325,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11542,
+    "date": 20150326,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10745,
+    "date": 20150331,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10123,
+    "date": 20150414,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12091,
+    "date": 20150417,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10409,
+    "date": 20150420,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12107,
+    "date": 20150423,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12319,
+    "date": 20150423,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10520,
+    "date": 20150424,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10008,
+    "date": 20150429,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 9723,
+    "date": 20150429,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10217,
+    "date": 20150507,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20150604,
+    "score": 74,
+    "type": "routine"
+  },
+  {
+    "business_id": 10123,
+    "date": 20150825,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11833,
+    "date": 20150826,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12025,
+    "date": 20150909,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20151014,
+    "score": 72,
+    "type": "routine"
+  },
+  {
+    "business_id": 11652,
+    "date": 20151021,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 9441,
+    "date": 20151022,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10951,
+    "date": 20151023,
+    "score": 89,
+    "type": "followup"
+  },
+  {
+    "business_id": 12231,
+    "date": 20151130,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10123,
+    "date": 20151215,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10409,
+    "date": 20151222,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9614,
+    "date": 20160115,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11361,
+    "date": 20160219,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 5492,
+    "date": 20160220,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 9683,
+    "date": 20160304,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 10796,
+    "date": 20160310,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 4931,
+    "date": 20160329,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 4039,
+    "date": 20160412,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 3697,
+    "date": 20160412,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 674,
+    "date": 20160419,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 6294,
+    "date": 20160420,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20160611,
+    "score": 85,
+    "type": "complaint"
+  },
+  {
+    "business_id": 3697,
+    "date": 20160811,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 4039,
+    "date": 20160811,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11882,
+    "date": 20160824,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 119,
+    "date": 20160831,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 10068,
+    "date": 20160922,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 1290,
+    "date": 20160927,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10797,
+    "date": 20160929,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11696,
+    "date": 20161005,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 4039,
+    "date": 20161206,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 3697,
+    "date": 20161209,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 9614,
+    "date": 20161219,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 5492,
+    "date": 20170129,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 8907,
+    "date": 20150514,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8775,
+    "date": 20150515,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11342,
+    "date": 20150516,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8238,
+    "date": 20150516,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12466,
+    "date": 20150925,
+    "score": 91,
+    "type": "initial"
+  },
+  {
+    "business_id": 10398,
+    "date": 20151112,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 1042,
+    "date": 20151120,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 11553,
+    "date": 20151130,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11694,
+    "date": 20151230,
+    "score": 73,
+    "type": "followup"
+  },
+  {
+    "business_id": 7448,
+    "date": 20160111,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 7448,
+    "date": 20160111,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11424,
+    "date": 20160129,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10845,
+    "date": 20160318,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 8666,
+    "date": 20160322,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11209,
+    "date": 20160322,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 7448,
+    "date": 20160502,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12189,
+    "date": 20160729,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 4293,
+    "date": 20160809,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 6674,
+    "date": 20160817,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11009,
+    "date": 20160825,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 7448,
+    "date": 20160921,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 5548,
+    "date": 20160923,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8782,
+    "date": 20160927,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 2050,
+    "date": 20160928,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 7840,
+    "date": 20161006,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 10449,
+    "date": 20161021,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12556,
+    "date": 20161109,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 3882,
+    "date": 20161110,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 12571,
+    "date": 20161114,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11424,
+    "date": 20161117,
+    "score": 72,
+    "type": "routine"
+  },
+  {
+    "business_id": 4418,
+    "date": 20161118,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 9958,
+    "date": 20161201,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 11694,
+    "date": 20150308,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12211,
+    "date": 20150308,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11897,
+    "date": 20150308,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8756,
+    "date": 20150326,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 9354,
+    "date": 20150322,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8642,
+    "date": 20150330,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 10380,
+    "date": 20150507,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8365,
+    "date": 20150513,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 4822,
+    "date": 20150914,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 5965,
+    "date": 20151015,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 11198,
+    "date": 20151030,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10175,
+    "date": 20151022,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10039,
+    "date": 20151021,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10040,
+    "date": 20151021,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 12404,
+    "date": 20150527,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 10737,
+    "date": 20160604,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10610,
+    "date": 20160806,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10464,
+    "date": 20150323,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10174,
+    "date": 20150323,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 6000,
+    "date": 20150325,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20150521,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20150612,
+    "score": 93,
+    "type": "followup"
+  },
+  {
+    "business_id": 11823,
+    "date": 20150612,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 11254,
+    "date": 20150626,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11853,
+    "date": 20150629,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11225,
+    "date": 20150629,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 8885,
+    "date": 20150703,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10411,
+    "date": 20150703,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 6751,
+    "date": 20150703,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10607,
+    "date": 20150703,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 6872,
+    "date": 20150715,
+    "score": 74,
+    "type": "routine"
+  },
+  {
+    "business_id": 10060,
+    "date": 20150715,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 4224,
+    "date": 20150715,
+    "score": 73,
+    "type": "routine"
+  },
+  {
+    "business_id": 3967,
+    "date": 20150716,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11968,
+    "date": 20150801,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 6756,
+    "date": 20150801,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 8848,
+    "date": 20150810,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 1947,
+    "date": 20150812,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 3373,
+    "date": 20150812,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11894,
+    "date": 20150812,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 1238,
+    "date": 20150827,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 11493,
+    "date": 20150829,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11352,
+    "date": 20150831,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 10217,
+    "date": 20150902,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10464,
+    "date": 20150905,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10174,
+    "date": 20150905,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 6000,
+    "date": 20150916,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 8795,
+    "date": 20151009,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6000,
+    "date": 20151112,
+    "score": 97,
+    "type": "followup"
+  },
+  {
+    "business_id": 8603,
+    "date": 20151124,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 9801,
+    "date": 20151124,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 11225,
+    "date": 20151205,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 3588,
+    "date": 20151219,
+    "score": 76,
+    "type": "routine"
+  },
+  {
+    "business_id": 11853,
+    "date": 20151223,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 10198,
+    "date": 20151223,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10039,
+    "date": 20160115,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 10040,
+    "date": 20160115,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10175,
+    "date": 20160204,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11968,
+    "date": 20160212,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 6756,
+    "date": 20160325,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 6507,
+    "date": 20160326,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20160416,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 6080,
+    "date": 20160429,
+    "score": 100,
+    "type": "followup"
+  },
+  {
+    "business_id": 1715,
+    "date": 20160611,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 9559,
+    "date": 20160614,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 814,
+    "date": 20160616,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 10362,
+    "date": 20160616,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 5341,
+    "date": 20160616,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 10040,
+    "date": 20160708,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 10039,
+    "date": 20160708,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10449,
+    "date": 20150311,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10082,
+    "date": 20150323,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 3697,
+    "date": 20150406,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 4039,
+    "date": 20150407,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11917,
+    "date": 20150506,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 7448,
+    "date": 20150519,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9802,
+    "date": 20150522,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11882,
+    "date": 20150608,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8517,
+    "date": 20150615,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11009,
+    "date": 20150630,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 5492,
+    "date": 20150706,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10845,
+    "date": 20150730,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11424,
+    "date": 20150801,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 4418,
+    "date": 20150801,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10796,
+    "date": 20150805,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10502,
+    "date": 20150805,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 4039,
+    "date": 20150812,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 3697,
+    "date": 20150814,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11361,
+    "date": 20150817,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 9683,
+    "date": 20150827,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 7448,
+    "date": 20150904,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 3303,
+    "date": 20150930,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12189,
+    "date": 20150930,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 8548,
+    "date": 20151002,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 10263,
+    "date": 20151016,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10355,
+    "date": 20151022,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 3254,
+    "date": 20151027,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10154,
+    "date": 20151028,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 674,
+    "date": 20151029,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 9958,
+    "date": 20151030,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 5209,
+    "date": 20151116,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 9576,
+    "date": 20151117,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 10797,
+    "date": 20151117,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10082,
+    "date": 20151118,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7840,
+    "date": 20151118,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 4293,
+    "date": 20151118,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10944,
+    "date": 20151119,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 9802,
+    "date": 20151123,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10449,
+    "date": 20151124,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 3697,
+    "date": 20151204,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 3697,
+    "date": 20151204,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 4039,
+    "date": 20151207,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11917,
+    "date": 20151208,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20151216,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20151216,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 6832,
+    "date": 20160107,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11044,
+    "date": 20160108,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 9890,
+    "date": 20160113,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9475,
+    "date": 20160208,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 3373,
+    "date": 20160217,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 11894,
+    "date": 20160217,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 1947,
+    "date": 20160217,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11493,
+    "date": 20160225,
+    "score": 100,
+    "type": "routine"
+  },
+  {
+    "business_id": 9890,
+    "date": 20160503,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6832,
+    "date": 20160524,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 7721,
+    "date": 20160713,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11342,
+    "date": 20160714,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 8673,
+    "date": 20160721,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 9221,
+    "date": 20160722,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 8277,
+    "date": 20160725,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11569,
+    "date": 20160725,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 8775,
+    "date": 20160729,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 5944,
+    "date": 20160816,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 12455,
+    "date": 20160825,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 7443,
+    "date": 20160829,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11654,
+    "date": 20160830,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 5529,
+    "date": 20160830,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 6832,
+    "date": 20160909,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9890,
+    "date": 20160909,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 11569,
+    "date": 20160919,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 1947,
+    "date": 20160927,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 11894,
+    "date": 20160928,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 3373,
+    "date": 20161020,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11493,
+    "date": 20161021,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 8055,
+    "date": 20161031,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 10432,
+    "date": 20150323,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20150416,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 10086,
+    "date": 20150421,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12455,
+    "date": 20150422,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 9890,
+    "date": 20150501,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 6832,
+    "date": 20150515,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12172,
+    "date": 20150528,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 8212,
+    "date": 20150707,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 5385,
+    "date": 20150711,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 7477,
+    "date": 20150804,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 9890,
+    "date": 20150908,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 9890,
+    "date": 20150909,
+    "score": 94,
+    "type": "followup"
+  },
+  {
+    "business_id": 8238,
+    "date": 20150911,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 6108,
+    "date": 20151012,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 11320,
+    "date": 20151020,
+    "score": 76,
+    "type": "routine"
+  },
+  {
+    "business_id": 7721,
+    "date": 20151030,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 9441,
+    "date": 20160415,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11862,
+    "date": 20150303,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12160,
+    "date": 20150320,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 11138,
+    "date": 20150422,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 5148,
+    "date": 20150422,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10106,
+    "date": 20150604,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 11729,
+    "date": 20150611,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 11359,
+    "date": 20150618,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 8515,
+    "date": 20150618,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10129,
+    "date": 20150620,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 10608,
+    "date": 20150620,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 1835,
+    "date": 20150627,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 5358,
+    "date": 20150627,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 10861,
+    "date": 20150627,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 7131,
+    "date": 20150701,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 9899,
+    "date": 20150711,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 6080,
+    "date": 20150711,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10993,
+    "date": 20151020,
+    "score": 70,
+    "type": "routine"
+  },
+  {
+    "business_id": 6955,
+    "date": 20151020,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 10993,
+    "date": 20151027,
+    "score": 89,
+    "type": "followup"
+  },
+  {
+    "business_id": 3627,
+    "date": 20151028,
+    "score": 76,
+    "type": "routine"
+  },
+  {
+    "business_id": 10012,
+    "date": 20151028,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 7236,
+    "date": 20151105,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 9512,
+    "date": 20151111,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 12404,
+    "date": 20151116,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 7235,
+    "date": 20151120,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10929,
+    "date": 20151123,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 6804,
+    "date": 20151124,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 3655,
+    "date": 20151124,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10362,
+    "date": 20151223,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 814,
+    "date": 20151223,
+    "score": 76,
+    "type": "routine"
+  },
+  {
+    "business_id": 10602,
+    "date": 20151230,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 11270,
+    "date": 20151231,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 9567,
+    "date": 20151231,
+    "score": 76,
+    "type": "routine"
+  },
+  {
+    "business_id": 12538,
+    "date": 20151231,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 11836,
+    "date": 20160328,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 5358,
+    "date": 20160113,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 12464,
+    "date": 20160205,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 9652,
+    "date": 20160326,
+    "score": 65,
+    "type": "routine"
+  },
+  {
+    "business_id": 9652,
+    "date": 20160328,
+    "score": 83,
+    "type": "followup"
+  },
+  {
+    "business_id": 12464,
+    "date": 20160502,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 3627,
+    "date": 20160528,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 3627,
+    "date": 20160528,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11554,
+    "date": 20160603,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 9512,
+    "date": 20160608,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11917,
+    "date": 20160630,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 3254,
+    "date": 20160806,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 119,
+    "date": 20160806,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 8515,
+    "date": 20160815,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 7235,
+    "date": 20161019,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 12404,
+    "date": 20161019,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12426,
+    "date": 20161031,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 12432,
+    "date": 20161031,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 12538,
+    "date": 20161210,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 11729,
+    "date": 20161210,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10861,
+    "date": 20161210,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 4822,
+    "date": 20170119,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 9899,
+    "date": 20170124,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10106,
+    "date": 20170122,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 5358,
+    "date": 20170122,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11359,
+    "date": 20170122,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9920,
+    "date": 20161116,
+    "score": 100,
+    "type": "initial"
+  },
+  {
+    "business_id": 12217,
+    "date": 20161122,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 10172,
+    "date": 20161129,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12630,
+    "date": 20161130,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 6000,
+    "date": 20161216,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8541,
+    "date": 20161219,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 11044,
+    "date": 20161220,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 6832,
+    "date": 20170105,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 9890,
+    "date": 20170105,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 7721,
+    "date": 20170113,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11342,
+    "date": 20170113,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 8673,
+    "date": 20170117,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 8277,
+    "date": 20170125,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 9221,
+    "date": 20170125,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 8775,
+    "date": 20170126,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6158,
+    "date": 20170127,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 19,
+    "date": 20170127,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10796,
+    "date": 20170204,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 12455,
+    "date": 20170215,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 7443,
+    "date": 20170216,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11654,
+    "date": 20170220,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 5529,
+    "date": 20170220,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 11044,
+    "date": 20170222,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6507,
+    "date": 20170227,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 19,
+    "date": 20150710,
+    "score": 88,
+    "type": "followup"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150710,
+    "score": 83,
+    "type": "followup"
+  },
+  {
+    "business_id": 609,
+    "date": 20150715,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 9613,
+    "date": 20150715,
+    "score": 80,
+    "type": "routine"
+  },
+  {
+    "business_id": 12045,
+    "date": 20150720,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 10335,
+    "date": 20150721,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 4006,
+    "date": 20150729,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 11161,
+    "date": 20150730,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 2412,
+    "date": 20150817,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20160504,
+    "score": 82,
+    "type": "routine"
+  },
+  {
+    "business_id": 7765,
+    "date": 20160518,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 12166,
+    "date": 20160720,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 10550,
+    "date": 20160721,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8585,
+    "date": 20160725,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11394,
+    "date": 20160726,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10432,
+    "date": 20160729,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 11862,
+    "date": 20160731,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20160801,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 12211,
+    "date": 20160913,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20161102,
+    "score": 88,
+    "type": "routine"
+  },
+  {
+    "business_id": 4931,
+    "date": 20161102,
+    "score": 100,
+    "type": "followup"
+  },
+  {
+    "business_id": 7765,
+    "date": 20161228,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 4931,
+    "date": 20170118,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20170201,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 9652,
+    "date": 20170222,
+    "score": 86,
+    "type": "routine"
+  },
+  {
+    "business_id": 8782,
+    "date": 20150613,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6507,
+    "date": 20150727,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 180,
+    "date": 20150730,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 5588,
+    "date": 20150730,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8427,
+    "date": 20150801,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 6603,
+    "date": 20150801,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 5944,
+    "date": 20150819,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 4931,
+    "date": 20150826,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 7765,
+    "date": 20150828,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 11117,
+    "date": 20150831,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 6832,
+    "date": 20150914,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 12166,
+    "date": 20151014,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 8585,
+    "date": 20151023,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 11554,
+    "date": 20151013,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10745,
+    "date": 20151014,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 12406,
+    "date": 20151015,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 4183,
+    "date": 20151030,
+    "score": 81,
+    "type": "routine"
+  },
+  {
+    "business_id": 8014,
+    "date": 20151102,
+    "score": 72,
+    "type": "routine"
+  },
+  {
+    "business_id": 10550,
+    "date": 20151116,
+    "score": 85,
+    "type": "routine"
+  },
+  {
+    "business_id": 11394,
+    "date": 20151123,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 744,
+    "date": 20151124,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12013,
+    "date": 20151125,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 8365,
+    "date": 20151209,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 10078,
+    "date": 20151211,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 6470,
+    "date": 20151211,
+    "score": 84,
+    "type": "routine"
+  },
+  {
+    "business_id": 8642,
+    "date": 20151214,
+    "score": 77,
+    "type": "routine"
+  },
+  {
+    "business_id": 12426,
+    "date": 20151214,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 10172,
+    "date": 20151213,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 5341,
+    "date": 20151229,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 11823,
+    "date": 20160104,
+    "score": 75,
+    "type": "routine"
+  },
+  {
+    "business_id": 12416,
+    "date": 20160119,
+    "score": 87,
+    "type": "routine"
+  },
+  {
+    "business_id": 6100,
+    "date": 20160121,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 10920,
+    "date": 20160125,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 3882,
+    "date": 20160124,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 6914,
+    "date": 20160205,
+    "score": 97,
+    "type": "routine"
+  },
+  {
+    "business_id": 6603,
+    "date": 20160205,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 10060,
+    "date": 20160206,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 6872,
+    "date": 20160206,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 8654,
+    "date": 20160217,
+    "score": 94,
+    "type": "routine"
+  },
+  {
+    "business_id": 12549,
+    "date": 20160317,
+    "score": 92,
+    "type": "routine"
+  },
+  {
+    "business_id": 10736,
+    "date": 20160316,
+    "score": 91,
+    "type": "routine"
+  },
+  {
+    "business_id": 11542,
+    "date": 20160317,
+    "score": 96,
+    "type": "routine"
+  },
+  {
+    "business_id": 11538,
+    "date": 20160625,
+    "score": 93,
+    "type": "routine"
+  },
+  {
+    "business_id": 10712,
+    "date": 20160723,
+    "score": 83,
+    "type": "routine"
+  },
+  {
+    "business_id": 9333,
+    "date": 20160723,
+    "score": 89,
+    "type": "routine"
+  },
+  {
+    "business_id": 10288,
+    "date": 20160803,
+    "score": 79,
+    "type": "routine"
+  },
+  {
+    "business_id": 10217,
+    "date": 20160805,
+    "score": 95,
+    "type": "routine"
+  },
+  {
+    "business_id": 10355,
+    "date": 20160808,
+    "score": 90,
+    "type": "routine"
+  },
+  {
+    "business_id": 35,
+    "date": 20160818,
+    "score": 78,
+    "type": "routine"
+  },
+  {
+    "business_id": 11320,
+    "date": 20160831,
+    "score": 89,
+    "type": "routine"
+  },
+  {
     "business_id": 66,
     "score": 96,
     "date": 20170703,

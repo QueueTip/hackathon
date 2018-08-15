@@ -35,11 +35,11 @@
             </ion-col>
         </ion-row>
     </ion-grid>
-    <ion-grid style="max-width: 1200px">
+    <ion-grid class="companyGrid">
         <ion-row>
             <ion-col class="cardColumn" *ngFor="let company of filteredCompanies" >
                 <ion-card class="companyCard" (click)="goToCompanyDetails(company)">
-                    <ion-row justify-content-center align-items-center style="height: 100px">
+                    <ion-row justify-content-center align-items-center style="height: 80px">
                         <ion-col col-9>
                             <div class="companyLabel">{{company.name}}</div>
                         </ion-col>
@@ -53,22 +53,23 @@
                     <ion-row style="height: 50px">
                         <ion-col col-4 class="scoreCol">
                             <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore === -1 ? "N/A" : company.minScore}}</div>
-                            <div class="scoreLabel">Min</div>
+                            <div class="scoreLabel">Low</div>
                         </ion-col>
                         <ion-col col-4 class="scoreCol">
-                            <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore === -1 ? "N/A" : company.avgScore}}</div>
+                            <div class="score avgScore {{getScoreClass(company.avgScore)}}">{{company.avgScore === -1 ? "N/A" : company.avgScore}}</div>
                             <div class="scoreLabel">Avg</div>
                         </ion-col>
                         <ion-col col-4 class="scoreCol">
                             <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore === -1 ? "N/A" : company.maxScore}}</div>
-                            <div class="scoreLabel">Max</div>
+                            <div class="scoreLabel">High</div>
                         </ion-col>
                     </ion-row>
-                    <ion-row style="height: 30px">
-                        <ion-col col-12>
-                            <ion-note>
-                                Updated: {{company.updated.toString() | dateConvert}}
-                            </ion-note>
+                    <ion-row class="infoRow">
+                        <ion-col col-6>
+                            <div><span>{{company.locations.length}}</span>&nbsp;&nbsp;Locations</div>
+                        </ion-col>
+                        <ion-col col-6>
+                            <div style="text-align: right">{{company.updated.toString() | dateConvert}}</div>
                         </ion-col>
                     </ion-row>
                 </ion-card>

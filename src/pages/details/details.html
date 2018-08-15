@@ -11,24 +11,31 @@
         <ion-row class="scoreRow">
             <ion-col col-4 class="scoreCol">
                 <div class="score {{getScoreClass(company.minScore)}}">{{company.minScore === -1 ? "N/A" : company.minScore}}</div>
-                <div class="scoreLabel">Min</div>
+                <div class="scoreLabel">Low</div>
             </ion-col>
             <ion-col col-4 class="scoreCol">
-                <div class="score {{getScoreClass(company.avgScore)}}">{{company.avgScore === -1 ? "N/A" : company.avgScore}}</div>
+                <div class="score avgScore {{getScoreClass(company.avgScore)}}">{{company.avgScore === -1 ? "N/A" : company.avgScore}}</div>
                 <div class="scoreLabel">Avg</div>
             </ion-col>
             <ion-col col-4 class="scoreCol">
                 <div class="score {{getScoreClass(company.maxScore)}}">{{company.maxScore === -1 ? "N/A" : company.maxScore}}</div>
-                <div class="scoreLabel">Max</div>
+                <div class="scoreLabel">High</div>
             </ion-col>
         </ion-row>
         <ion-row class="locationHeaderRow">
             <ion-col col-12>Locations</ion-col>
         </ion-row>
-        <ion-row *ngFor="let location of company.locations" class="locationRow">
+        <ion-row *ngFor="let location of locations" class="locationRow">
             <ion-col col-12>
                 <ion-card class="locationCard">
-                    <ion-label class="locationLabel">{{location.business_id}} - {{location.address}}</ion-label>
+                    <ion-row>
+                        <ion-col col-6>
+                            <ion-label class="locationLabel">{{location.business_id}} - {{location.address}}</ion-label>
+                        </ion-col>
+                        <ion-col col-6>
+                            <div style="text-align: right; padding-top: 10px; padding-right: 10px;">{{location.city}}, {{location.state}}</div>
+                        </ion-col>
+                    </ion-row>
                     <ng-container *ngIf="location.inspections && location.inspections.length > 0">
                         <ion-label class="inspectionLabel">Inspections</ion-label>
                         <ion-grid class="inspectionGrid">

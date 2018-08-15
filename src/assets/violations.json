@@ -1,5 +1,5530 @@
 [
   {
+    "business_id": 3627,
+    "date": 20150421,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 3627,
+    "date": 20150421,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9512,
+    "date": 20150428,
+    "description": "Outer Openings: Doors, Windows, Walls, Roof - GRP"
+  },
+  {
+    "business_id": 9512,
+    "date": 20150428,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9512,
+    "date": 20150428,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 9512,
+    "date": 20150428,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 3588,
+    "date": 20150414,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 3627,
+    "date": 20150421,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 3588,
+    "date": 20150414,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 3588,
+    "date": 20150414,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150424,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150424,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150424,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150424,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150424,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10362,
+    "date": 20150506,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 814,
+    "date": 20150504,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 814,
+    "date": 20150504,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 814,
+    "date": 20150504,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 1715,
+    "date": 20150507,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 1715,
+    "date": 20150507,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 1715,
+    "date": 20150507,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 1715,
+    "date": 20150507,
+    "description": "Single-service/Single-use Articles - GRP"
+  },
+  {
+    "business_id": 1715,
+    "date": 20150507,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 11270,
+    "date": 20150520,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9567,
+    "date": 20150519,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11270,
+    "date": 20150520,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 9567,
+    "date": 20150519,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 9964,
+    "date": 20150423,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6470,
+    "date": 20150520,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 6470,
+    "date": 20150520,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 9964,
+    "date": 20150423,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 6470,
+    "date": 20150520,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9964,
+    "date": 20150423,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 5529,
+    "date": 20150326,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 5529,
+    "date": 20150326,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 5529,
+    "date": 20150326,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 5529,
+    "date": 20150326,
+    "description": "26. Posting Consumer  Advisories- Choking/Reminder/Buffet"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150606,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 7576,
+    "date": 20150424,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 7576,
+    "date": 20150424,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 7576,
+    "date": 20150424,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7576,
+    "date": 20150424,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 2728,
+    "date": 20150606,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 5341,
+    "date": 20150507,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 5341,
+    "date": 20150507,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 5341,
+    "date": 20150507,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 10602,
+    "date": 20150519,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10602,
+    "date": 20150519,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 10602,
+    "date": 20150519,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10172,
+    "date": 20150528,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 3730,
+    "date": 20150616,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 3730,
+    "date": 20150616,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 3730,
+    "date": 20150616,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 12416,
+    "date": 20150623,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "National Sanitation Foundation Approved Equipment - GRP"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10081,
+    "date": 20150624,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 3930,
+    "date": 20150626,
+    "description": "Outer Openings: Doors, Windows, Walls, Roof - GRP"
+  },
+  {
+    "business_id": 3930,
+    "date": 20150626,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11893,
+    "date": 20150629,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 11893,
+    "date": 20150629,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 11893,
+    "date": 20150629,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 3930,
+    "date": 20150626,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 10991,
+    "date": 20150616,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 3930,
+    "date": 20150626,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10991,
+    "date": 20150616,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 10991,
+    "date": 20150616,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 3930,
+    "date": 20150626,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10991,
+    "date": 20150616,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 6100,
+    "date": 20150719,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 6100,
+    "date": 20150719,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 6648,
+    "date": 20150709,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "15. Equipment Adequate to Maintain Product Temperature"
+  },
+  {
+    "business_id": 10078,
+    "date": 20150527,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 10078,
+    "date": 20150527,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10078,
+    "date": 20150527,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "Paper Test Strip Testing Devises - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 9614,
+    "date": 20150725,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 9614,
+    "date": 20150725,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 6158,
+    "date": 20150706,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9614,
+    "date": 20150725,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 19,
+    "date": 20150706,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "Single-service/Single-use Articles - GRP"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 3882,
+    "date": 20150725,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 9204,
+    "date": 20150709,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9652,
+    "date": 20150801,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "15. Equipment Adequate to Maintain Product Temperature"
+  },
+  {
+    "business_id": 7547,
+    "date": 20150722,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9652,
+    "date": 20150801,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9652,
+    "date": 20150801,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 7547,
+    "date": 20150722,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 6747,
+    "date": 20150723,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 7547,
+    "date": 20150722,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 9727,
+    "date": 20150713,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 9727,
+    "date": 20150713,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9727,
+    "date": 20150713,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7547,
+    "date": 20150722,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10920,
+    "date": 20150719,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10920,
+    "date": 20150719,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9727,
+    "date": 20150713,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 6914,
+    "date": 20150726,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 6914,
+    "date": 20150726,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 6914,
+    "date": 20150726,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 6765,
+    "date": 20150721,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 6765,
+    "date": 20150721,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 12186,
+    "date": 20150726,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 9374,
+    "date": 20150827,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 12091,
+    "date": 20150716,
+    "description": "Plumbing- GRP"
+  },
+  {
+    "business_id": 9374,
+    "date": 20150827,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 8014,
+    "date": 20150804,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 5069,
+    "date": 20150828,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 12185,
+    "date": 20150726,
+    "description": "5. Rapid Reheating for Hot Holding (165 �F in 2 Hrs)"
+  },
+  {
+    "business_id": 5069,
+    "date": 20150828,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 12185,
+    "date": 20150726,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 12185,
+    "date": 20150726,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 8666,
+    "date": 20150810,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 8666,
+    "date": 20150810,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 8666,
+    "date": 20150810,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 8666,
+    "date": 20150810,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 815,
+    "date": 20150805,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 815,
+    "date": 20150805,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 815,
+    "date": 20150805,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 815,
+    "date": 20150805,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 815,
+    "date": 20150805,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 11836,
+    "date": 20150821,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10035,
+    "date": 20150829,
+    "description": "Single-service/Single-use Articles - GRP"
+  },
+  {
+    "business_id": 10035,
+    "date": 20150829,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 10035,
+    "date": 20150829,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 10035,
+    "date": 20150829,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 10035,
+    "date": 20150829,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 11209,
+    "date": 20150830,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10573,
+    "date": 20150910,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11209,
+    "date": 20150830,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 11209,
+    "date": 20150830,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 11209,
+    "date": 20150830,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 5965,
+    "date": 20150828,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 8487,
+    "date": 20151002,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 5965,
+    "date": 20150828,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 8487,
+    "date": 20151002,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 10041,
+    "date": 20151002,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 10068,
+    "date": 20150923,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 119,
+    "date": 20151027,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7619,
+    "date": 20150910,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 119,
+    "date": 20151027,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 119,
+    "date": 20151027,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 119,
+    "date": 20151027,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12228,
+    "date": 20151208,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 12228,
+    "date": 20151208,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10412,
+    "date": 20151007,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10412,
+    "date": 20151007,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 8982,
+    "date": 20151026,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10081,
+    "date": 20151014,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9836,
+    "date": 20151028,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9836,
+    "date": 20151028,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 9836,
+    "date": 20151028,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 5165,
+    "date": 20151112,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 5165,
+    "date": 20151112,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 5386,
+    "date": 20151008,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 5386,
+    "date": 20151008,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 3838,
+    "date": 20151001,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 5165,
+    "date": 20151112,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 5386,
+    "date": 20151008,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 5165,
+    "date": 20151112,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 3838,
+    "date": 20151001,
+    "description": "10. Sound Condition"
+  },
+  {
+    "business_id": 3838,
+    "date": 20151001,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 9309,
+    "date": 20151116,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9309,
+    "date": 20151116,
+    "description": "14. Water Supply-Approved/Adequate/Hot & Cold Under Pressure"
+  },
+  {
+    "business_id": 9926,
+    "date": 20151008,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 9920,
+    "date": 20151202,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9920,
+    "date": 20151202,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 9920,
+    "date": 20151202,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 11862,
+    "date": 20151218,
+    "description": "CLOSURE NOTICE"
+  },
+  {
+    "business_id": 11862,
+    "date": 20151218,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11862,
+    "date": 20151218,
+    "description": "14. Water Supply-Approved/Adequate/Hot & Cold Under Pressure"
+  },
+  {
+    "business_id": 11862,
+    "date": 20151218,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11862,
+    "date": 20151218,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 11078,
+    "date": 20151006,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 11078,
+    "date": 20151006,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 12217,
+    "date": 20160427,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 11078,
+    "date": 20151006,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 12217,
+    "date": 20160427,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 12217,
+    "date": 20160427,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11078,
+    "date": 20151006,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9007,
+    "date": 20151007,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 11540,
+    "date": 20151112,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10610,
+    "date": 20151026,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 12217,
+    "date": 20160427,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 9007,
+    "date": 20151007,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 9007,
+    "date": 20151007,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 9007,
+    "date": 20151007,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10610,
+    "date": 20151026,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10610,
+    "date": 20151026,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12326,
+    "date": 20151124,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 12242,
+    "date": 20160417,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9007,
+    "date": 20151007,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12242,
+    "date": 20160417,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11202,
+    "date": 20151130,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 6674,
+    "date": 20151027,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 6674,
+    "date": 20151027,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 11202,
+    "date": 20151130,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6674,
+    "date": 20151027,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10595,
+    "date": 20160303,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 6108,
+    "date": 20160504,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11292,
+    "date": 20151218,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 11202,
+    "date": 20151130,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 11202,
+    "date": 20151130,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9760,
+    "date": 20151106,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 8756,
+    "date": 20151112,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11202,
+    "date": 20151130,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 8756,
+    "date": 20151112,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 8756,
+    "date": 20151112,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 8756,
+    "date": 20151112,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 8756,
+    "date": 20151112,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12107,
+    "date": 20151124,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 11575,
+    "date": 20151117,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 12107,
+    "date": 20151124,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9534,
+    "date": 20151020,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 12319,
+    "date": 20151125,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 5548,
+    "date": 20151015,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 5548,
+    "date": 20151015,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 5548,
+    "date": 20151015,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12319,
+    "date": 20151125,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 9534,
+    "date": 20151020,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 9534,
+    "date": 20151020,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 12319,
+    "date": 20151125,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 12078,
+    "date": 20151123,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9534,
+    "date": 20151020,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12078,
+    "date": 20151123,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 12078,
+    "date": 20151123,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 12078,
+    "date": 20151123,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 1238,
+    "date": 20160308,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 12040,
+    "date": 20151125,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 1238,
+    "date": 20160308,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 7477,
+    "date": 20160313,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 7477,
+    "date": 20160313,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 7477,
+    "date": 20160313,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 11695,
+    "date": 20151208,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 11695,
+    "date": 20151208,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 11695,
+    "date": 20151208,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 10041,
+    "date": 20160417,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10041,
+    "date": 20160417,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 10041,
+    "date": 20160417,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10464,
+    "date": 20160309,
+    "description": "7. Proper/Adequate Handwashing"
+  },
+  {
+    "business_id": 10464,
+    "date": 20160309,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10464,
+    "date": 20160309,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10041,
+    "date": 20160417,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12406,
+    "date": 20160326,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 11554,
+    "date": 20160328,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11554,
+    "date": 20160328,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11554,
+    "date": 20160328,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10745,
+    "date": 20160328,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10745,
+    "date": 20160328,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 10745,
+    "date": 20160328,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 10745,
+    "date": 20160328,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9613,
+    "date": 20160726,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 9613,
+    "date": 20160726,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 9613,
+    "date": 20160726,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 12432,
+    "date": 20151231,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 12432,
+    "date": 20151231,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 12432,
+    "date": 20151231,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6080,
+    "date": 20160126,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 6080,
+    "date": 20160126,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6080,
+    "date": 20160126,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10923,
+    "date": 20151103,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10923,
+    "date": 20151103,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 12040,
+    "date": 20160627,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 12510,
+    "date": 20160313,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 4418,
+    "date": 20160228,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 12040,
+    "date": 20160627,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 12510,
+    "date": 20160313,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 5026,
+    "date": 20160703,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 4418,
+    "date": 20160228,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 5026,
+    "date": 20160703,
+    "description": "No bare hand contact or approved alternate method followed"
+  },
+  {
+    "business_id": 5026,
+    "date": 20160703,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 5026,
+    "date": 20160703,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 12510,
+    "date": 20160313,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 5548,
+    "date": 20160417,
+    "description": "14. Water Supply-Approved/Adequate/Hot & Cold Under Pressure"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 12091,
+    "date": 20160428,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 9559,
+    "date": 20151130,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9958,
+    "date": 20160501,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9958,
+    "date": 20160501,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9534,
+    "date": 20160411,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9534,
+    "date": 20160411,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9534,
+    "date": 20160411,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 4972,
+    "date": 20160511,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 4972,
+    "date": 20160511,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 6441,
+    "date": 20160703,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 9836,
+    "date": 20160326,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9836,
+    "date": 20160326,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 9836,
+    "date": 20160326,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 9836,
+    "date": 20160326,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10263,
+    "date": 20160816,
+    "description": "Toxic substances properly identified, stored & used"
+  },
+  {
+    "business_id": 10263,
+    "date": 20160816,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 4209,
+    "date": 20160612,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 10263,
+    "date": 20160816,
+    "description": "Proper cooling methods; Equipment adequate to maintain temp."
+  },
+  {
+    "business_id": 4209,
+    "date": 20160612,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 4209,
+    "date": 20160612,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 6955,
+    "date": 20160428,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 4209,
+    "date": 20160612,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 6955,
+    "date": 20160428,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6955,
+    "date": 20160428,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 6955,
+    "date": 20160428,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 180,
+    "date": 20161214,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 180,
+    "date": 20161214,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 180,
+    "date": 20161214,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 180,
+    "date": 20161214,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 180,
+    "date": 20161214,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 9902,
+    "date": 20160303,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10789,
+    "date": 20160315,
+    "description": "Outer Openings: Doors, Windows, Walls, Roof - GRP"
+  },
+  {
+    "business_id": 10789,
+    "date": 20160315,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "23. Sewage/Wastewater Disposal System, Proper Disposal"
+  },
+  {
+    "business_id": 1042,
+    "date": 20160624,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11292,
+    "date": 20160629,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151130,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151130,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151130,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151130,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 11575,
+    "date": 20151124,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10247,
+    "date": 20151209,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12091,
+    "date": 20151209,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 11292,
+    "date": 20160629,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11292,
+    "date": 20160629,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 12091,
+    "date": 20151209,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 11292,
+    "date": 20160629,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11292,
+    "date": 20160629,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12091,
+    "date": 20151209,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151209,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151209,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 12091,
+    "date": 20151209,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9333,
+    "date": 20151209,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20151221,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 12566,
+    "date": 20160914,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 6765,
+    "date": 20161216,
+    "description": "Food Separated & Protected"
+  },
+  {
+    "business_id": 6765,
+    "date": 20161216,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 6517,
+    "date": 20160204,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6765,
+    "date": 20161216,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 6765,
+    "date": 20161216,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 6765,
+    "date": 20161216,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 11695,
+    "date": 20160720,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 8386,
+    "date": 20151111,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 8386,
+    "date": 20151111,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 8386,
+    "date": 20151111,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 8386,
+    "date": 20151111,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Food & Non-food Contact Surfaces"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Single-service & single-use articles"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 6897,
+    "date": 20151113,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10012,
+    "date": 20160729,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 10608,
+    "date": 20160120,
+    "description": "Paper Test Strip Testing Devises - GRP"
+  },
+  {
+    "business_id": 10608,
+    "date": 20160120,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 10608,
+    "date": 20160120,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10608,
+    "date": 20160120,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 10335,
+    "date": 20160315,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 10154,
+    "date": 20160816,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 12440,
+    "date": 20151223,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 12440,
+    "date": 20151223,
+    "description": "11. Proper Handling of Ready-To-Eat Foods"
+  },
+  {
+    "business_id": 12440,
+    "date": 20151223,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 12440,
+    "date": 20151223,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 4863,
+    "date": 20160616,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "Proper cooling methods; Equipment adequate to maintain temp."
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "Proper Date Marking & Disposition"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 12326,
+    "date": 20160627,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10951,
+    "date": 20170209,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 12326,
+    "date": 20160627,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 12319,
+    "date": 20160627,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Food & Non-food Contact Surfaces"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160303,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "description": "Paper Test Strip Testing Devises - GRP"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "description": "Thawing - GRP"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9482,
+    "date": 20160501,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 8983,
+    "date": 20151112,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 9482,
+    "date": 20160501,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "description": "Plumbing- GRP"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160105,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 9482,
+    "date": 20160501,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 5148,
+    "date": 20160729,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 5148,
+    "date": 20160729,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 5148,
+    "date": 20160729,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Proper Hot Holding Temperature(135�F)"
+  },
+  {
+    "business_id": 10438,
+    "date": 20151130,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9278,
+    "date": 20151125,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 1069,
+    "date": 20151125,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 1069,
+    "date": 20151125,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Time as a Public Health Control;procedures & records"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 1069,
+    "date": 20151125,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Food & Non-food Contact Surfaces"
+  },
+  {
+    "business_id": 1069,
+    "date": 20151125,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 1069,
+    "date": 20151125,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 6804,
+    "date": 20160718,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 8517,
+    "date": 20151221,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10438,
+    "date": 20160721,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 10438,
+    "date": 20160721,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10438,
+    "date": 20160721,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 10438,
+    "date": 20160721,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Proper Cooling Time and Temperature"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "Paper Test Strip Testing Devises - GRP"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 11078,
+    "date": 20160329,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Proper Hot Holding Temperature(135�F)"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Time as a Public Health Control;procedures & records"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10083,
+    "date": 20160722,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 7236,
+    "date": 20160819,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 7236,
+    "date": 20160819,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 7236,
+    "date": 20160819,
+    "description": "Proper Date Marking & Disposition"
+  },
+  {
+    "business_id": 7236,
+    "date": 20160819,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 7236,
+    "date": 20160819,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 2728,
+    "date": 20160719,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 4219,
+    "date": 20151231,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 8548,
+    "date": 20160807,
+    "description": "Proper reheating procedure for hot holding(165�F in 2 hours)"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 9007,
+    "date": 20160420,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 8548,
+    "date": 20160807,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Food Separated & Protected"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Toxic substances properly identified, stored & used"
+  },
+  {
+    "business_id": 8548,
+    "date": 20160807,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 8548,
+    "date": 20160807,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10624,
+    "date": 20160703,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 8386,
+    "date": 20160802,
+    "description": "Single-service & single-use articles"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "Paper Test Strip Testing Devises - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "Lighting - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160509,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 9278,
+    "date": 20160907,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Time as a Public Health Control;procedures & records"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 1835,
+    "date": 20160115,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 7448,
+    "date": 20170113,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10129,
+    "date": 20160120,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10129,
+    "date": 20160120,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10129,
+    "date": 20160120,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 4219,
+    "date": 20151112,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10129,
+    "date": 20160120,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 10129,
+    "date": 20160120,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 4219,
+    "date": 20151112,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160706,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160706,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160706,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160706,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160706,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "Plumbing- GRP"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9325,
+    "date": 20151116,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "Approved Sewage/Wastewater Disposal System"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9309,
+    "date": 20160721,
+    "description": "Service sink provided/Toilet Facilities Adequate"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 6517,
+    "date": 20161010,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 6517,
+    "date": 20161010,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "description": "Plumbing- GRP"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Single-service & single-use articles"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 11138,
+    "date": 20160819,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 7576,
+    "date": 20160428,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 9964,
+    "date": 20160428,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9964,
+    "date": 20160428,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 9964,
+    "date": 20160428,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 9964,
+    "date": 20160428,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 9964,
+    "date": 20160428,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10608,
+    "date": 20161026,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10608,
+    "date": 20161026,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 10608,
+    "date": 20161026,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 10608,
+    "date": 20161026,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 10608,
+    "date": 20161026,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 3655,
+    "date": 20160819,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "10. Sound Condition"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160308,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 10129,
+    "date": 20161025,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "Cleaning Equipment  - GRP"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160919,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160919,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160919,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160919,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 10398,
+    "date": 20160919,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10412,
+    "date": 20160420,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 6517,
+    "date": 20160607,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 6517,
+    "date": 20160607,
+    "description": "18. Evidence of Insect Contamination"
+  },
+  {
+    "business_id": 6517,
+    "date": 20160607,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10930,
+    "date": 20160426,
+    "description": "Paper Test Strip Testing Devises - GRP"
+  },
+  {
+    "business_id": 10930,
+    "date": 20160426,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10930,
+    "date": 20160426,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 10930,
+    "date": 20160426,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 8517,
+    "date": 20160720,
+    "description": "Hot & Cold Water Available, adequate pressure, safe"
+  },
+  {
+    "business_id": 12698,
+    "date": 20161130,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 8517,
+    "date": 20160720,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 8517,
+    "date": 20160720,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 8517,
+    "date": 20160720,
+    "description": "Service sink provided/Toilet Facilities Adequate"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 5386,
+    "date": 20160531,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 5386,
+    "date": 20160531,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 5386,
+    "date": 20160531,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 5386,
+    "date": 20160531,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 11078,
+    "date": 20161018,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 5386,
+    "date": 20160531,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9926,
+    "date": 20160531,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 9926,
+    "date": 20160531,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 9926,
+    "date": 20160531,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9926,
+    "date": 20160531,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Food/ice approved source; food in good condition, safe"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Approved Sewage/Wastewater Disposal System"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 10247,
+    "date": 20160727,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10247,
+    "date": 20160727,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 10247,
+    "date": 20160727,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 12549,
+    "date": 20170120,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 12440,
+    "date": 20160720,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 12440,
+    "date": 20160720,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 12440,
+    "date": 20160720,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "Personal Cleanliness/eating, drinking or tobacco use"
+  },
+  {
+    "business_id": 10438,
+    "date": 20170210,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 11575,
+    "date": 20160818,
+    "description": "Congratulations - No Health Violations Identified"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Proper Hot Holding Temperature(135�F)"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 6804,
+    "date": 20170210,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Toxic substances properly identified, stored & used"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 12440,
+    "date": 20170131,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 12440,
+    "date": 20170131,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Service sink provided/Toilet Facilities Adequate"
+  },
+  {
+    "business_id": 12440,
+    "date": 20170131,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 12025,
+    "date": 20170103,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 12440,
+    "date": 20170131,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 10247,
+    "date": 20170216,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 7236,
+    "date": 20170223,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9964,
+    "date": 20161027,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 9964,
+    "date": 20161027,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 9964,
+    "date": 20161027,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 5386,
+    "date": 20161111,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 5386,
+    "date": 20161111,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 5386,
+    "date": 20161111,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "Outer Openings: Doors, Windows, Walls, Roof - GRP"
+  },
+  {
+    "business_id": 5386,
+    "date": 20161111,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 3655,
+    "date": 20170223,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "4. Proper Cooking Temperatures per PHF"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "12. Cross-Contamination of Raw/Cooked Foods/Other"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Proper Hot Holding Temperature(135�F)"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 9964,
+    "date": 20151029,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "description": "Food - GRP"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Proper Date Marking & Disposition"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10380,
+    "date": 20151118,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 10930,
+    "date": 20161111,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 12025,
+    "date": 20160906,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "description": "Food - GRP"
+  },
+  {
+    "business_id": 2728,
+    "date": 20170126,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 9723,
+    "date": 20151228,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10085,
+    "date": 20160920,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Proper Date Marking & Disposition"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10412,
+    "date": 20161019,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 11138,
+    "date": 20170221,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 10412,
+    "date": 20161019,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 10412,
+    "date": 20161019,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 11729,
+    "date": 20160118,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 11729,
+    "date": 20160118,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 11729,
+    "date": 20160118,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "description": "Proper Cooling Time and Temperature"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 10607,
+    "date": 20160126,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 10607,
+    "date": 20160126,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 10607,
+    "date": 20160126,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 10398,
+    "date": 20161103,
+    "description": "Single-service & single-use articles"
+  },
+  {
+    "business_id": 10607,
+    "date": 20160126,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 10491,
+    "date": 20160126,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160119,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160119,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 7576,
+    "date": 20161027,
+    "description": "Approved Sewage/Wastewater Disposal System"
+  },
+  {
+    "business_id": 10491,
+    "date": 20160126,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 7576,
+    "date": 20161027,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160119,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160119,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7576,
+    "date": 20161027,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 7576,
+    "date": 20161027,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 7576,
+    "date": 20161027,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 7547,
+    "date": 20160119,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "Approved Sewage/Wastewater Disposal System"
+  },
+  {
+    "business_id": 10491,
+    "date": 20160126,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 10491,
+    "date": 20160126,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 1835,
+    "date": 20161012,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9007,
+    "date": 20161019,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 9007,
+    "date": 20161019,
+    "description": "Approved Sewage/Wastewater Disposal System"
+  },
+  {
+    "business_id": 9007,
+    "date": 20161019,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 9007,
+    "date": 20161019,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9007,
+    "date": 20161019,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 9926,
+    "date": 20161111,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9926,
+    "date": 20161111,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 9926,
+    "date": 20161111,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9926,
+    "date": 20161111,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 9482,
+    "date": 20161111,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 9482,
+    "date": 20161111,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 9482,
+    "date": 20161111,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 9482,
+    "date": 20161111,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 9926,
+    "date": 20161111,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 9374,
+    "date": 20160229,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 9482,
+    "date": 20161111,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 9374,
+    "date": 20160229,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 9374,
+    "date": 20160229,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 9374,
+    "date": 20160229,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 9374,
+    "date": 20160229,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 10576,
+    "date": 20160126,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 12642,
+    "date": 20161207,
+    "description": "Wiping Cloths; properly used & stored"
+  },
+  {
+    "business_id": 12642,
+    "date": 20161207,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 12642,
+    "date": 20161207,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 11117,
+    "date": 20160224,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 11117,
+    "date": 20160224,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 11117,
+    "date": 20160224,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 11117,
+    "date": 20160224,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Single-service & single-use articles"
+  },
+  {
+    "business_id": 11202,
+    "date": 20161026,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 11202,
+    "date": 20161026,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 11202,
+    "date": 20161026,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 6517,
+    "date": 20170206,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 6517,
+    "date": 20170206,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 11202,
+    "date": 20161026,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 6517,
+    "date": 20170206,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Adequate ventilation & lighting"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 6517,
+    "date": 20170206,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 11202,
+    "date": 20161026,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 8386,
+    "date": 20170208,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 8517,
+    "date": 20170206,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 8517,
+    "date": 20170206,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 8517,
+    "date": 20170206,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 11696,
+    "date": 20151111,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "Ventilation - GRP"
+  },
+  {
+    "business_id": 11696,
+    "date": 20151111,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "23. Sewage/Wastewater Disposal System, Proper Disposal"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Toxic substances properly identified, stored & used"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 4209,
+    "date": 20151109,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Food & Non-food Contact Surfaces"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Food Establishment Permit(Current, Valid, & Posted)"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Non-food contact surfaces clean"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 10930,
+    "date": 20170131,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 8756,
+    "date": 20160727,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 9354,
+    "date": 20151112,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 5965,
+    "date": 20160719,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 5965,
+    "date": 20160719,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 11575,
+    "date": 20170214,
+    "description": "Thermometers provided/accurate; Test Strips"
+  },
+  {
+    "business_id": 11575,
+    "date": 20170214,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 5965,
+    "date": 20160719,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 5965,
+    "date": 20160719,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 5965,
+    "date": 20160719,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 9354,
+    "date": 20160727,
+    "description": "Adequate handwashing facilities: Accessible & supplied, used"
+  },
+  {
+    "business_id": 9354,
+    "date": 20160727,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 11575,
+    "date": 20170214,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 10078,
+    "date": 20160727,
+    "description": "PIC, demonstration of knowledge, perfrom dutied, & CFM"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 10078,
+    "date": 20160727,
+    "description": "Proper Date Marking & Disposition"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "COMMENT:"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "4. Proper Cooking Temperatures per PHF"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "Proper Cold Holding temperature(41�F/45�F)"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "Food Handler/no unauthorized persons/personnel"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "Warewashing Facilities; installed, maintained, used"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160112,
+    "description": "Food Protection - GRP"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160112,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160112,
+    "description": "Non-food Contact Surfaces - GRP"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "No evidence of insect contamination, rodent/other animals"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "10. Sound Condition"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "Utensils, equipment, & linens"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 4822,
+    "date": 20160906,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "24. Thermometers Provided/Accurate/Properly Calibrated"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10861,
+    "date": 20160120,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10861,
+    "date": 20160120,
+    "description": "13.Approved Systems (HACCP Plan/Time as Public Hlth Control)"
+  },
+  {
+    "business_id": 5148,
+    "date": 20151029,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "Lockers/Dressing Rooms - GRP"
+  },
+  {
+    "business_id": 12186,
+    "date": 20160203,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 12186,
+    "date": 20160203,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 12186,
+    "date": 20160203,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 8427,
+    "date": 20160204,
+    "description": "3. Hot Holding Temperature"
+  },
+  {
+    "business_id": 8427,
+    "date": 20160204,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "22.Manager Demonstration of Knowledge/Certified Food Manager"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 7576,
+    "date": 20151029,
+    "description": "27. Food Establishment Permit/Food Handler Card"
+  },
+  {
+    "business_id": 6751,
+    "date": 20160113,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 6751,
+    "date": 20160113,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Time as a Public Health Control;procedures & records"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Food Separated & Protected"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 6751,
+    "date": 20160113,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "Toilet Facilities - GRP"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "Premises - GRP"
+  },
+  {
+    "business_id": 6751,
+    "date": 20160113,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Food Contact Surfaces & Returnables"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "8. Good Hygienic Practices (Eating/Drinking/Smoking/Other)"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "description": "Premises - GRP"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Hands cleaned & properly washed, Gloves used properly"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "description": "Wiping Cloths/Linens/Napkins/Sponges - GRP"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Environmental Contamination"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Utensils, equipment, & linens"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "16. Handwash Facilities Adequate & Access"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "description": "21. Warewashing & Sanitizing @ ___ ppm/Temperature"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "17. Handwash Facilities with Soap & Towels"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "20. Toxic Items Properly Labeled/Stored/Used"
+  },
+  {
+    "business_id": 6765,
+    "date": 20160115,
+    "description": "Floors, Walls and Ceilings - GRP"
+  },
+  {
+    "business_id": 10411,
+    "date": 20160125,
+    "description": "Dead Pest Removal - GRP"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Garbage & Refuse properly disposed; facilities maintained"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Physical facilities installed, maintained, & clean"
+  },
+  {
+    "business_id": 5165,
+    "date": 20161025,
+    "description": "Other Violations"
+  },
+  {
+    "business_id": 5588,
+    "date": 20160121,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
+    "business_id": 10411,
+    "date": 20160125,
+    "description": "Garbage and Refuse Disposal  - GRP"
+  },
+  {
+    "business_id": 10411,
+    "date": 20160125,
+    "description": "2. Cold Holding Temperature"
+  },
+  {
+    "business_id": 10411,
+    "date": 20160125,
+    "description": "10. Sound Condition"
+  },
+  {
+    "business_id": 10411,
+    "date": 20160125,
+    "description": "25. Food Contact Surfaces-Cleaned/Sanitized/Good Repair"
+  },
+  {
     "business_id": 66,
     "date": 20180420,
     "description": "Unclean or degraded floors walls or ceilings"
