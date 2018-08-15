@@ -1,7 +1,10 @@
-import { Component } from '@angular/core';
-import {NavController, NavParams} from 'ionic-angular';
+import {Component, ElementRef, ViewChild} from '@angular/core';
+import {ModalController, NavController, NavParams} from 'ionic-angular';
 import {Company} from "../../models/company.interface";
 import {Location} from "../../models/location.interface";
+import {MapPage} from "../map/map";
+
+declare var google;
 
 @Component({
   selector: 'page-details',
@@ -12,7 +15,10 @@ export class DetailsPage {
     company: Company;
     locations: Location[];
 
-    constructor(public navCtrl: NavController, private navParams: NavParams) {
+    @ViewChild('map') mapElement: ElementRef;
+    map: any;
+
+    constructor(public navCtrl: NavController, private navParams: NavParams, private modalCtrl: ModalController) {
         this.company = this.navParams.get("company");
         this.locations = this.company.locations.sort((a, b) => {
             if (a.business_id < b.business_id) return -1;
@@ -30,6 +36,15 @@ export class DetailsPage {
     }
 
     async ngOnInit() {
+
+    }
+
+    async loadMap() {
+        let modal = this.modalCtrl.create(MapPage, {
+            company: this.company
+        });
+
+        await modal.present();
     }
 
     getScoreClass(score: number): string {

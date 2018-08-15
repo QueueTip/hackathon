@@ -9,12 +9,14 @@ import { HomePage } from '../pages/home/home';
 import {HttpModule} from "@angular/http";
 import {DetailsPage} from "../pages/details/details";
 import {DateConvertPipe} from "../components/date-convert.pipe";
+import {MapPage} from "../pages/map/map";
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
       DetailsPage,
+      MapPage,
       DateConvertPipe
   ],
   imports: [
@@ -26,7 +28,8 @@ import {DateConvertPipe} from "../components/date-convert.pipe";
   entryComponents: [
     MyApp,
     HomePage,
-      DetailsPage
+      DetailsPage,
+      MapPage
   ],
   providers: [
     StatusBar,

@@ -1,15 +1,16 @@
-page-details {
+page-map {
+  .scroll-content{
+    overflow: hidden;
+  }
 
   .mapContainer {
-    position: absolute;
-    z-index: 999;
     width: 100%;
     height: 100%;
-    padding: 200px;
+    padding: 0;
   }
 
   #map {
-
+    position: inherit !important;
   }
 
   .scoreRow {
