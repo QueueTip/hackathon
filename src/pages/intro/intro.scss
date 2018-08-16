@@ -35,12 +35,12 @@ page-intro {
     left: 50%;
     transform: translate(-50%, -50%);
     transition: opacity .8s;
-    transition-timing-function: cubic-bezier(1,.04,.94,.12);
+    transition-timing-function: cubic-bezier(.84,.05,.94,.22);
     opacity: 0;
   }
 
   .eyesLeaving {
-    opacity: .7;
+    opacity: .75;
   }
 
   .eyes img {
