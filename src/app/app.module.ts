@@ -10,11 +10,13 @@ import {HttpModule} from "@angular/http";
 import {DetailsPage} from "../pages/details/details";
 import {DateConvertPipe} from "../components/date-convert.pipe";
 import {MapPage} from "../pages/map/map";
+import {IntroPage} from "../pages/intro/intro";
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
+      IntroPage,
       DetailsPage,
       MapPage,
       DateConvertPipe
@@ -28,6 +30,7 @@ import {MapPage} from "../pages/map/map";
   entryComponents: [
     MyApp,
     HomePage,
+      IntroPage,
       DetailsPage,
       MapPage
   ],

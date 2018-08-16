@@ -1,0 +1,43 @@
+page-intro {
+  background-color: black !important;
+
+  ion-content {
+    background-color: black !important;
+    transition: transform 3s, opacity 3s; /* Animation */
+  }
+
+  .leaving {
+    transform: scale(10);
+    opacity: .25;
+  }
+
+  .logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .title {
+    color: white;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50px;
+    font-size: 100px;
+    font-family: "Segoe UI";
+  }
+
+  .beginContainer {
+
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+    text-align: center;
+  }
+  .begin {
+    width: 250px;
+    height: 60px;
+    font-size: 3em;
+  }
+}
