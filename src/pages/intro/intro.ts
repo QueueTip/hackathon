@@ -21,7 +21,7 @@ export class IntroPage {
         this.leaving = true;
 
 
-        await delay(2000);
+        await delay(1500);
 
         await this.navCtrl.setRoot(HomePage);
     }
